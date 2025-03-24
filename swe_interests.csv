@@ -1,0 +1,2180 @@
+respondent_id,interest
+1,Books/literature
+1,Films
+1,Outdoor recreation
+1,Gaming (e-sports
+1,computer games
+1,online games etc)
+1,Hunting or fishing
+1,Music and theatre
+1,Natural sciences
+1,Series on TV or online
+1,Foreign news & foreign policy
+2,Books/literature
+2,Economy & business
+2,Fitness & training
+2,Outdoor recreation
+2,Health & wellness
+2,Natural sciences
+2,Politics
+2,Travelling abroad
+2,Series on TV or online
+3,Books/literature
+3,Economy & business
+3,Arts & Crafts
+3,Cookery
+3,Politics
+3,Theatre
+3,dance & other performing arts
+9,Books/literature
+9,Films
+9,Construction & carpentry
+9,Sustainability & environment
+9,Arts & Crafts
+9,Natural sciences
+9,New technologies & digitalisation
+46,Economy & business
+46,Films
+46,Fitness & training
+46,Sustainability & environment
+46,Health & wellness
+46,Local news
+46,Music and theatre
+46,Travelling abroad
+46,Series on TV or online
+46,Shopping
+46,Sports news
+46,Theatre
+46,dance & other performing arts
+46,Practising a sport
+50,Books/literature
+50,Economy & business
+50,Fitness & training
+50,Outdoor recreation
+50,Travelling abroad
+50,Foreign news & foreign policy
+51,Films
+51,Outdoor recreation
+51,Construction & carpentry
+51,Sustainability & environment
+51,Health & wellness
+51,Interior design
+51,Hunting or fishing
+51,Arts & Crafts
+51,Cookery
+51,Music and theatre
+51,Travelling abroad
+51,Theatre
+51,dance & other performing arts
+51,Practising a sport
+51,Plants
+51,growing & gardening
+59,Fitness & training
+59,Sustainability & environment
+59,Health & wellness
+59,Local news
+59,Fashion and clothing
+59,Music and theatre
+59,New technologies & digitalisation
+59,Travelling abroad
+59,Theatre
+59,dance & other performing arts
+59,Foreign news & foreign policy
+62,Fitness & training
+62,Health & wellness
+62,Entertainment & celebrities
+62,Travelling abroad
+65,Economy & business
+65,Fitness & training
+65,Construction & carpentry
+65,Health & wellness
+65,Local news
+65,Cookery
+65,Music and theatre
+65,Natural sciences
+65,New technologies & digitalisation
+65,Travelling abroad
+65,Sports news
+65,Practising a sport
+71,Books/literature
+71,Economy & business
+71,Films
+71,New technologies & digitalisation
+71,Politics
+71,Series on TV or online
+74,Books/literature
+74,Films
+74,Outdoor recreation
+74,Music and theatre
+74,Plants
+74,growing & gardening
+76,Fitness & training
+76,Construction & carpentry
+76,Interior design
+76,Natural sciences
+76,Travelling abroad
+76,Sports news
+76,Foreign news & foreign policy
+76,Plants
+76,growing & gardening
+81,Economy & business
+81,Fitness & training
+81,Health & wellness
+81,New technologies & digitalisation
+81,Travelling abroad
+81,Series on TV or online
+81,Practising a sport
+102,Films
+102,Fitness & training
+102,Outdoor recreation
+102,Sustainability & environment
+102,Health & wellness
+102,Interior design
+102,Local news
+102,Sports news
+102,Foreign news & foreign policy
+102,Practising a sport
+102,Plants
+102,growing & gardening
+105,Books/literature
+105,Films
+105,Interior design
+105,Cookery
+105,Fashion and clothing
+105,Travelling abroad
+105,Series on TV or online
+105,Sports news
+105,Practising a sport
+115,Cars and lorries
+115,Films
+115,Outdoor recreation
+115,Hunting or fishing
+115,Local news
+115,Cookery
+115,Politics
+115,Foreign news & foreign policy
+120,Films
+120,Outdoor recreation
+120,Construction & carpentry
+120,Health & wellness
+120,Interior design
+120,Local news
+120,Cookery
+120,Music and theatre
+120,New technologies & digitalisation
+120,Entertainment & celebrities
+120,Travelling abroad
+120,Series on TV or online
+120,Shopping
+120,Sports news
+120,Foreign news & foreign policy
+120,Practising a sport
+128,Natural sciences
+128,New technologies & digitalisation
+128,Politics
+128,Travelling abroad
+128,Foreign news & foreign policy
+128,Practising a sport
+139,Economy & business
+139,Films
+139,Outdoor recreation
+139,Construction & carpentry
+139,Interior design
+139,Cookery
+139,Fashion and clothing
+139,New technologies & digitalisation
+159,Books/literature
+159,Economy & business
+159,Fitness & training
+159,Outdoor recreation
+159,Health & wellness
+159,Cookery
+159,Music and theatre
+159,Natural sciences
+159,New technologies & digitalisation
+159,Travelling abroad
+159,Series on TV or online
+159,Theatre
+159,dance & other performing arts
+170,Books/literature
+170,Films
+170,Local news
+170,Music and theatre
+170,Travelling abroad
+170,Series on TV or online
+170,Sports news
+170,Theatre
+170,dance & other performing arts
+170,Foreign news & foreign policy
+173,Cars and lorries
+173,Films
+173,Outdoor recreation
+173,New technologies & digitalisation
+173,Entertainment & celebrities
+173,Sports news
+173,Theatre
+173,dance & other performing arts
+182,Books/literature
+182,Films
+182,Outdoor recreation
+182,Sustainability & environment
+182,Interior design
+182,Arts & Crafts
+182,Local news
+182,Cookery
+182,Fashion and clothing
+182,Music and theatre
+182,Theatre
+182,dance & other performing arts
+182,Plants
+182,growing & gardening
+188,Books/literature
+188,Films
+188,Fitness & training
+188,Gambling (games of chance e.g. poker
+188,casino
+188,trotting etc)
+188,Gaming (e-sports
+188,computer games
+188,online games etc)
+188,Health & wellness
+188,Interior design
+188,Arts & Crafts
+188,Local news
+188,Cookery
+188,Fashion and clothing
+188,Music and theatre
+188,Entertainment & celebrities
+188,Travelling abroad
+188,Series on TV or online
+188,Shopping
+188,Beauty news
+188,Theatre
+188,dance & other performing arts
+193,Fitness & training
+193,Health & wellness
+193,Natural sciences
+193,Politics
+193,Plants
+193,growing & gardening
+208,Books/literature
+208,Economy & business
+208,Films
+208,Outdoor recreation
+208,Construction & carpentry
+208,Health & wellness
+208,Interior design
+208,Hunting or fishing
+208,Cookery
+208,Music and theatre
+208,Entertainment & celebrities
+208,Travelling abroad
+208,Series on TV or online
+208,Practising a sport
+208,Plants
+208,growing & gardening
+211,Books/literature
+211,Economy & business
+211,Outdoor recreation
+211,Sustainability & environment
+211,Health & wellness
+211,Music and theatre
+211,Entertainment & celebrities
+211,Travelling abroad
+211,Foreign news & foreign policy
+227,Economy & business
+227,Outdoor recreation
+227,Health & wellness
+227,Interior design
+227,New technologies & digitalisation
+227,Plants
+227,growing & gardening
+229,Cars and lorries
+229,Economy & business
+229,Films
+229,Gaming (e-sports
+229,computer games
+229,online games etc)
+229,New technologies & digitalisation
+229,Politics
+229,Sports news
+229,Foreign news & foreign policy
+231,Construction & carpentry
+231,Health & wellness
+231,Arts & Crafts
+231,Cookery
+231,Music and theatre
+231,New technologies & digitalisation
+231,Politics
+231,Practising a sport
+235,Cars and lorries
+235,Books/literature
+235,Outdoor recreation
+235,Health & wellness
+235,Local news
+235,New technologies & digitalisation
+235,Travelling abroad
+235,Sports news
+235,Practising a sport
+236,Fitness & training
+236,Outdoor recreation
+236,Practising a sport
+240,Fitness & training
+240,Health & wellness
+240,Natural sciences
+240,New technologies & digitalisation
+240,Travelling abroad
+240,Foreign news & foreign policy
+240,Practising a sport
+241,Books/literature
+241,Films
+241,Health & wellness
+241,Arts & Crafts
+241,Music and theatre
+241,Travelling abroad
+241,Theatre
+241,dance & other performing arts
+241,Foreign news & foreign policy
+244,Economy & business
+244,Fitness & training
+244,Travelling abroad
+244,Sports news
+247,Books/literature
+247,Films
+247,Sustainability & environment
+247,Health & wellness
+247,Interior design
+247,Arts & Crafts
+247,Cookery
+247,Fashion and clothing
+247,Music and theatre
+247,Travelling abroad
+247,Series on TV or online
+247,Shopping
+247,Plants
+247,growing & gardening
+251,Health & wellness
+251,Music and theatre
+251,Entertainment & celebrities
+251,Travelling abroad
+251,Theatre
+251,dance & other performing arts
+255,Books/literature
+255,Economy & business
+255,Fitness & training
+255,Outdoor recreation
+255,Health & wellness
+255,Hunting or fishing
+255,Arts & Crafts
+255,Music and theatre
+255,Natural sciences
+255,Entertainment & celebrities
+255,Foreign news & foreign policy
+255,Practising a sport
+255,Plants
+255,growing & gardening
+258,Outdoor recreation
+258,Hunting or fishing
+258,Music and theatre
+258,Natural sciences
+258,Plants
+258,growing & gardening
+259,Books/literature
+259,Fitness & training
+259,Outdoor recreation
+259,Sustainability & environment
+259,Health & wellness
+259,Arts & Crafts
+259,Cookery
+259,Natural sciences
+259,New technologies & digitalisation
+259,Theatre
+259,dance & other performing arts
+259,Practising a sport
+259,Plants
+259,growing & gardening
+263,Cars and lorries
+263,Books/literature
+263,Economy & business
+263,Films
+263,Health & wellness
+263,Interior design
+263,Arts & Crafts
+263,Fashion and clothing
+263,Music and theatre
+263,New technologies & digitalisation
+263,Entertainment & celebrities
+263,Travelling abroad
+263,Shopping
+263,Beauty news
+263,Theatre
+263,dance & other performing arts
+266,Cars and lorries
+266,Fitness & training
+266,Outdoor recreation
+266,Sustainability & environment
+266,Practising a sport
+267,Economy & business
+267,Fitness & training
+267,Outdoor recreation
+267,Health & wellness
+267,New technologies & digitalisation
+267,Sports news
+267,Practising a sport
+268,Economy & business
+268,Travelling abroad
+269,Books/literature
+269,Economy & business
+269,Films
+269,Fitness & training
+269,Health & wellness
+269,Politics
+269,Series on TV or online
+269,Practising a sport
+269,Plants
+269,growing & gardening
+270,Books/literature
+270,Economy & business
+270,Films
+270,Fitness & training
+270,Health & wellness
+270,Arts & Crafts
+270,Cookery
+270,Fashion and clothing
+270,Travelling abroad
+270,Beauty news
+270,Foreign news & foreign policy
+270,Practising a sport
+271,Outdoor recreation
+271,Construction & carpentry
+271,Sustainability & environment
+271,Health & wellness
+271,Interior design
+271,Arts & Crafts
+271,Local news
+271,Cookery
+271,Politics
+271,Travelling abroad
+271,Plants
+271,growing & gardening
+276,Economy & business
+276,Sustainability & environment
+276,Politics
+276,Travelling abroad
+279,Books/literature
+279,Health & wellness
+279,Local news
+279,Sports news
+281,Sustainability & environment
+281,Local news
+281,Cookery
+281,Travelling abroad
+281,Foreign news & foreign policy
+282,Cars and lorries
+283,Sustainability & environment
+283,Local news
+283,Travelling abroad
+283,Plants
+283,growing & gardening
+286,Books/literature
+286,Construction & carpentry
+286,Health & wellness
+286,Music and theatre
+286,Entertainment & celebrities
+286,Plants
+286,growing & gardening
+287,Fitness & training
+287,Local news
+287,Music and theatre
+287,Entertainment & celebrities
+287,Politics
+287,Travelling abroad
+287,Shopping
+287,Theatre
+287,dance & other performing arts
+287,Practising a sport
+289,Sustainability & environment
+289,Cookery
+289,New technologies & digitalisation
+290,Economy & business
+290,Health & wellness
+290,Music and theatre
+290,Travelling abroad
+290,Sports news
+290,Foreign news & foreign policy
+290,Practising a sport
+291,Books/literature
+291,Fitness & training
+291,Outdoor recreation
+291,Health & wellness
+291,Interior design
+291,Fashion and clothing
+291,Music and theatre
+291,Travelling abroad
+291,Shopping
+291,Beauty news
+291,Practising a sport
+292,Books/literature
+292,Films
+292,Fitness & training
+292,Outdoor recreation
+292,Health & wellness
+292,Interior design
+292,Arts & Crafts
+292,Music and theatre
+292,Entertainment & celebrities
+292,Travelling abroad
+292,Theatre
+292,dance & other performing arts
+292,Plants
+292,growing & gardening
+294,Outdoor recreation
+294,Sustainability & environment
+294,Health & wellness
+294,Arts & Crafts
+294,Local news
+294,Natural sciences
+294,New technologies & digitalisation
+294,Travelling abroad
+294,Plants
+294,growing & gardening
+295,Books/literature
+295,Films
+295,Outdoor recreation
+295,Arts & Crafts
+295,Local news
+295,Cookery
+295,Music and theatre
+295,Politics
+295,Travelling abroad
+295,Theatre
+295,dance & other performing arts
+295,Foreign news & foreign policy
+295,Plants
+295,growing & gardening
+300,Books/literature
+300,Films
+300,Fitness & training
+300,Health & wellness
+300,Interior design
+300,Arts & Crafts
+300,Local news
+300,Fashion and clothing
+300,Music and theatre
+300,Entertainment & celebrities
+300,Travelling abroad
+300,Series on TV or online
+300,Shopping
+300,Beauty news
+300,Sports news
+300,Theatre
+300,dance & other performing arts
+300,Foreign news & foreign policy
+300,Practising a sport
+301,Outdoor recreation
+301,Health & wellness
+301,Interior design
+301,Local news
+301,Cookery
+301,Fashion and clothing
+301,Music and theatre
+301,Politics
+301,Travelling abroad
+301,Series on TV or online
+301,Theatre
+301,dance & other performing arts
+301,Foreign news & foreign policy
+301,Plants
+301,growing & gardening
+306,Books/literature
+306,Films
+306,Fitness & training
+306,Outdoor recreation
+306,Gaming (e-sports
+306,computer games
+306,online games etc)
+306,Sustainability & environment
+306,Health & wellness
+306,Hunting or fishing
+306,Music and theatre
+306,Natural sciences
+306,Travelling abroad
+306,Series on TV or online
+306,Plants
+306,growing & gardening
+311,Books/literature
+311,Economy & business
+311,Fitness & training
+311,Hunting or fishing
+314,Economy & business
+314,Fitness & training
+314,Health & wellness
+314,Music and theatre
+314,Travelling abroad
+317,Health & wellness
+317,Arts & Crafts
+317,Music and theatre
+317,Theatre
+317,dance & other performing arts
+318,Arts & Crafts
+318,Local news
+318,Music and theatre
+321,Books/literature
+321,Sustainability & environment
+321,Health & wellness
+321,Local news
+321,Music and theatre
+321,Series on TV or online
+321,Sports news
+321,Plants
+321,growing & gardening
+323,Books/literature
+323,Economy & business
+323,Sustainability & environment
+323,Local news
+323,Music and theatre
+323,Politics
+323,Theatre
+323,dance & other performing arts
+323,Foreign news & foreign policy
+324,Outdoor recreation
+324,Health & wellness
+324,Cookery
+324,Music and theatre
+324,Natural sciences
+324,Theatre
+324,dance & other performing arts
+324,Practising a sport
+324,Plants
+324,growing & gardening
+325,Outdoor recreation
+325,Construction & carpentry
+325,Local news
+325,Natural sciences
+325,New technologies & digitalisation
+325,Foreign news & foreign policy
+326,Outdoor recreation
+326,Sustainability & environment
+326,Health & wellness
+326,Interior design
+326,Local news
+326,Natural sciences
+326,Foreign news & foreign policy
+326,Plants
+326,growing & gardening
+328,Outdoor recreation
+328,Health & wellness
+328,Practising a sport
+329,Fitness & training
+329,Health & wellness
+329,Interior design
+329,Arts & Crafts
+329,Entertainment & celebrities
+329,Shopping
+329,Plants
+329,growing & gardening
+330,Sustainability & environment
+330,Health & wellness
+330,Natural sciences
+331,Outdoor recreation
+331,Health & wellness
+331,Local news
+331,Entertainment & celebrities
+331,Travelling abroad
+331,Plants
+331,growing & gardening
+332,Fitness & training
+332,Health & wellness
+332,Travelling abroad
+335,Cars and lorries
+335,Films
+335,Gambling (games of chance e.g. poker
+335,casino
+335,trotting etc)
+335,Construction & carpentry
+335,Local news
+335,Sports news
+335,Plants
+335,growing & gardening
+336,Films
+336,Outdoor recreation
+336,Construction & carpentry
+336,Local news
+336,Natural sciences
+336,Travelling abroad
+336,Series on TV or online
+336,Sports news
+336,Foreign news & foreign policy
+336,Practising a sport
+337,Books/literature
+337,Fitness & training
+337,Sustainability & environment
+337,Health & wellness
+337,Interior design
+337,Music and theatre
+337,Travelling abroad
+337,Foreign news & foreign policy
+337,Practising a sport
+337,Plants
+337,growing & gardening
+344,Books/literature
+344,Economy & business
+344,Films
+344,Fitness & training
+344,Arts & Crafts
+344,Local news
+344,Music and theatre
+344,Entertainment & celebrities
+344,Politics
+344,Travelling abroad
+344,Sports news
+344,Theatre
+344,dance & other performing arts
+344,Foreign news & foreign policy
+344,Practising a sport
+345,Local news
+345,Sports news
+346,Cars and lorries
+346,Books/literature
+346,Cookery
+346,Music and theatre
+346,Travelling abroad
+346,Series on TV or online
+348,Books/literature
+348,Health & wellness
+348,Fashion and clothing
+348,Music and theatre
+348,Entertainment & celebrities
+348,Travelling abroad
+348,Series on TV or online
+348,Shopping
+349,Books/literature
+349,Economy & business
+349,Fitness & training
+349,Sustainability & environment
+349,Arts & Crafts
+349,Local news
+349,Fashion and clothing
+349,Music and theatre
+349,New technologies & digitalisation
+349,Beauty news
+349,Foreign news & foreign policy
+350,Books/literature
+350,Films
+350,Outdoor recreation
+350,Health & wellness
+350,Local news
+350,Cookery
+350,Fashion and clothing
+350,Music and theatre
+350,Entertainment & celebrities
+350,Travelling abroad
+350,Series on TV or online
+350,Shopping
+350,Theatre
+350,dance & other performing arts
+350,Foreign news & foreign policy
+350,Practising a sport
+351,Cars and lorries
+351,Books/literature
+351,Outdoor recreation
+351,Gambling (games of chance e.g. poker
+351,casino
+351,trotting etc)
+351,Gaming (e-sports
+351,computer games
+351,online games etc)
+351,Construction & carpentry
+351,Local news
+351,New technologies & digitalisation
+351,Entertainment & celebrities
+351,Politics
+351,Travelling abroad
+351,Foreign news & foreign policy
+351,Practising a sport
+352,Books/literature
+352,Economy & business
+352,Fitness & training
+352,Outdoor recreation
+352,Health & wellness
+352,Politics
+352,Travelling abroad
+352,Foreign news & foreign policy
+352,Practising a sport
+353,Practising a sport
+361,Cars and lorries
+361,Films
+361,Fitness & training
+361,Health & wellness
+361,Natural sciences
+361,New technologies & digitalisation
+361,Travelling abroad
+361,Series on TV or online
+361,Sports news
+361,Practising a sport
+365,Books/literature
+365,Films
+365,Fitness & training
+365,Outdoor recreation
+365,Sustainability & environment
+365,Health & wellness
+365,Interior design
+365,Arts & Crafts
+365,Local news
+365,Cookery
+365,Fashion and clothing
+365,Music and theatre
+365,New technologies & digitalisation
+365,Entertainment & celebrities
+365,Politics
+365,Travelling abroad
+365,Series on TV or online
+365,Beauty news
+365,Theatre
+365,dance & other performing arts
+365,Foreign news & foreign policy
+365,Practising a sport
+365,Plants
+365,growing & gardening
+369,Books/literature
+369,Sustainability & environment
+369,Interior design
+369,Arts & Crafts
+369,Local news
+369,Travelling abroad
+369,Series on TV or online
+369,Sports news
+369,Foreign news & foreign policy
+369,Practising a sport
+369,Plants
+369,growing & gardening
+370,Outdoor recreation
+370,Hunting or fishing
+370,Travelling abroad
+371,Economy & business
+371,Cookery
+371,Fashion and clothing
+371,New technologies & digitalisation
+371,Politics
+371,Sports news
+371,Foreign news & foreign policy
+371,Practising a sport
+374,Books/literature
+374,Outdoor recreation
+374,Sustainability & environment
+374,Health & wellness
+374,Politics
+374,Travelling abroad
+374,Foreign news & foreign policy
+377,Fitness & training
+377,Construction & carpentry
+377,Practising a sport
+381,Books/literature
+381,Construction & carpentry
+381,Interior design
+381,Arts & Crafts
+381,Music and theatre
+381,Plants
+381,growing & gardening
+384,Economy & business
+384,Outdoor recreation
+384,Health & wellness
+384,Politics
+384,Foreign news & foreign policy
+385,Economy & business
+385,Outdoor recreation
+385,Construction & carpentry
+385,Foreign news & foreign policy
+385,Practising a sport
+385,Plants
+385,growing & gardening
+386,Books/literature
+386,Economy & business
+386,Outdoor recreation
+386,Cookery
+386,Music and theatre
+386,Travelling abroad
+386,Sports news
+389,Cars and lorries
+389,Books/literature
+389,Films
+389,Construction & carpentry
+389,Fashion and clothing
+389,Entertainment & celebrities
+389,Travelling abroad
+389,Series on TV or online
+389,Theatre
+389,dance & other performing arts
+390,Cars and lorries
+390,Construction & carpentry
+390,Interior design
+390,New technologies & digitalisation
+390,Shopping
+393,Cars and lorries
+393,Construction & carpentry
+393,Arts & Crafts
+393,Sports news
+394,Books/literature
+394,Films
+394,Outdoor recreation
+394,Gaming (e-sports
+394,computer games
+394,online games etc)
+394,Sustainability & environment
+394,Natural sciences
+394,Politics
+394,Series on TV or online
+394,Foreign news & foreign policy
+394,Practising a sport
+395,Cookery
+397,Books/literature
+397,Films
+397,Outdoor recreation
+397,Sustainability & environment
+397,Health & wellness
+397,Interior design
+397,Arts & Crafts
+397,Local news
+397,Cookery
+397,Fashion and clothing
+397,Music and theatre
+397,Politics
+397,Foreign news & foreign policy
+397,Plants
+397,growing & gardening
+398,Arts & Crafts
+398,Cookery
+398,Travelling abroad
+399,Cars and lorries
+399,Films
+399,Gaming (e-sports
+399,computer games
+399,online games etc)
+399,Health & wellness
+399,Travelling abroad
+399,Series on TV or online
+399,Sports news
+399,Theatre
+399,dance & other performing arts
+400,Books/literature
+400,Films
+400,Outdoor recreation
+400,Interior design
+400,Fashion and clothing
+400,Music and theatre
+400,Series on TV or online
+400,Shopping
+400,Sports news
+400,Foreign news & foreign policy
+401,Books/literature
+401,Economy & business
+401,Outdoor recreation
+401,Gaming (e-sports
+401,computer games
+401,online games etc)
+401,Hunting or fishing
+401,Music and theatre
+401,Sports news
+401,Theatre
+401,dance & other performing arts
+404,Economy & business
+404,Fitness & training
+404,Outdoor recreation
+404,Sustainability & environment
+404,Health & wellness
+404,Arts & Crafts
+404,Music and theatre
+404,Politics
+404,Theatre
+404,dance & other performing arts
+404,Foreign news & foreign policy
+404,Practising a sport
+410,Cars and lorries
+410,Films
+410,Construction & carpentry
+410,Hunting or fishing
+410,Music and theatre
+410,New technologies & digitalisation
+410,Travelling abroad
+411,Outdoor recreation
+411,Music and theatre
+411,New technologies & digitalisation
+411,Travelling abroad
+411,Sports news
+411,Foreign news & foreign policy
+411,Practising a sport
+413,Books/literature
+413,Economy & business
+413,Films
+413,Fitness & training
+413,Outdoor recreation
+413,Sustainability & environment
+413,Health & wellness
+413,Interior design
+413,Arts & Crafts
+413,Local news
+413,Fashion and clothing
+413,Music and theatre
+413,New technologies & digitalisation
+413,Entertainment & celebrities
+413,Politics
+413,Travelling abroad
+413,Series on TV or online
+413,Sports news
+413,Theatre
+413,dance & other performing arts
+413,Foreign news & foreign policy
+414,Books/literature
+414,Economy & business
+414,Films
+414,Outdoor recreation
+414,Local news
+414,Cookery
+414,Music and theatre
+414,New technologies & digitalisation
+414,Travelling abroad
+414,Series on TV or online
+414,Foreign news & foreign policy
+415,Books/literature
+415,Films
+415,Fitness & training
+415,Outdoor recreation
+415,Sustainability & environment
+415,Health & wellness
+415,Interior design
+415,Arts & Crafts
+415,Fashion and clothing
+415,Music and theatre
+415,Entertainment & celebrities
+415,Series on TV or online
+415,Theatre
+415,dance & other performing arts
+415,Foreign news & foreign policy
+415,Plants
+415,growing & gardening
+419,Economy & business
+419,Films
+419,Fitness & training
+419,Outdoor recreation
+419,Health & wellness
+419,Hunting or fishing
+419,Cookery
+419,Music and theatre
+419,Travelling abroad
+419,Theatre
+419,dance & other performing arts
+419,Foreign news & foreign policy
+423,Books/literature
+423,Films
+423,Travelling abroad
+423,Series on TV or online
+423,Shopping
+423,Theatre
+423,dance & other performing arts
+423,Plants
+423,growing & gardening
+424,Cars and lorries
+424,Books/literature
+424,Films
+424,Outdoor recreation
+424,Gaming (e-sports
+424,computer games
+424,online games etc)
+424,Cookery
+424,Music and theatre
+424,Travelling abroad
+424,Series on TV or online
+426,Cars and lorries
+427,Films
+427,Outdoor recreation
+427,Gaming (e-sports
+427,computer games
+427,online games etc)
+427,Construction & carpentry
+427,Sustainability & environment
+427,Local news
+427,New technologies & digitalisation
+429,Films
+429,Outdoor recreation
+429,Health & wellness
+429,Interior design
+429,Arts & Crafts
+429,Cookery
+429,Fashion and clothing
+429,Music and theatre
+429,Series on TV or online
+429,Shopping
+429,Theatre
+429,dance & other performing arts
+430,Fitness & training
+430,Outdoor recreation
+430,New technologies & digitalisation
+431,Cookery
+431,Music and theatre
+431,Travelling abroad
+433,Economy & business
+433,Outdoor recreation
+433,Construction & carpentry
+433,Sustainability & environment
+433,Health & wellness
+433,Interior design
+433,Arts & Crafts
+433,Local news
+433,Cookery
+433,Fashion and clothing
+433,Music and theatre
+433,Natural sciences
+433,New technologies & digitalisation
+433,Politics
+433,Travelling abroad
+433,Series on TV or online
+433,Shopping
+433,Sports news
+433,Practising a sport
+433,Plants
+433,growing & gardening
+434,Books/literature
+434,Economy & business
+434,Films
+434,Sustainability & environment
+434,Health & wellness
+434,Music and theatre
+434,New technologies & digitalisation
+434,Entertainment & celebrities
+434,Travelling abroad
+434,Series on TV or online
+434,Theatre
+434,dance & other performing arts
+438,Economy & business
+439,Fashion and clothing
+439,Travelling abroad
+440,Books/literature
+440,Economy & business
+440,Films
+440,Fitness & training
+440,Outdoor recreation
+440,Arts & Crafts
+440,Natural sciences
+440,Politics
+440,Travelling abroad
+440,Foreign news & foreign policy
+443,Sustainability & environment
+443,Hunting or fishing
+443,Local news
+443,Music and theatre
+443,Natural sciences
+443,Foreign news & foreign policy
+446,Books/literature
+446,Cookery
+446,Music and theatre
+446,Travelling abroad
+446,Theatre
+446,dance & other performing arts
+446,Plants
+446,growing & gardening
+448,Books/literature
+448,Economy & business
+448,Outdoor recreation
+448,Sustainability & environment
+448,Cookery
+448,Natural sciences
+448,New technologies & digitalisation
+448,Sports news
+449,Cars and lorries
+449,Books/literature
+449,Films
+449,Music and theatre
+449,Politics
+449,Travelling abroad
+449,Foreign news & foreign policy
+451,Books/literature
+451,Health & wellness
+451,Arts & Crafts
+451,Music and theatre
+451,Politics
+451,Foreign news & foreign policy
+452,Films
+452,Fitness & training
+452,Health & wellness
+452,Arts & Crafts
+452,Local news
+452,Fashion and clothing
+452,Entertainment & celebrities
+452,Series on TV or online
+452,Shopping
+455,Films
+455,Sustainability & environment
+455,Health & wellness
+455,Series on TV or online
+456,Films
+456,Music and theatre
+456,Entertainment & celebrities
+456,Plants
+456,growing & gardening
+457,Films
+457,Health & wellness
+457,Arts & Crafts
+457,Music and theatre
+457,Theatre
+457,dance & other performing arts
+458,Outdoor recreation
+458,Health & wellness
+458,Music and theatre
+460,Economy & business
+460,Outdoor recreation
+460,Sustainability & environment
+460,Health & wellness
+460,Hunting or fishing
+460,Local news
+460,Travelling abroad
+460,Foreign news & foreign policy
+461,Books/literature
+461,Films
+461,Fitness & training
+461,Outdoor recreation
+461,Sustainability & environment
+461,Health & wellness
+462,Fitness & training
+462,Health & wellness
+462,Interior design
+462,Cookery
+462,Fashion and clothing
+462,Travelling abroad
+462,Shopping
+462,Beauty news
+462,Plants
+462,growing & gardening
+463,Books/literature
+463,Films
+463,Outdoor recreation
+463,Gaming (e-sports
+463,computer games
+463,online games etc)
+463,Hunting or fishing
+463,Local news
+463,Cookery
+463,Music and theatre
+463,Travelling abroad
+463,Series on TV or online
+463,Sports news
+467,Cars and lorries
+467,Economy & business
+467,Films
+467,Health & wellness
+467,Cookery
+467,Music and theatre
+467,Series on TV or online
+467,Sports news
+467,Theatre
+467,dance & other performing arts
+473,Outdoor recreation
+473,Construction & carpentry
+473,Interior design
+473,Arts & Crafts
+473,Local news
+473,Fashion and clothing
+473,Music and theatre
+473,Plants
+473,growing & gardening
+475,Cars and lorries
+475,Films
+475,Outdoor recreation
+475,Construction & carpentry
+475,Hunting or fishing
+475,Series on TV or online
+476,Books/literature
+476,Economy & business
+476,Films
+476,Fitness & training
+476,Outdoor recreation
+476,Sustainability & environment
+476,Health & wellness
+476,Music and theatre
+476,New technologies & digitalisation
+476,Travelling abroad
+476,Sports news
+476,Theatre
+476,dance & other performing arts
+476,Foreign news & foreign policy
+476,Practising a sport
+477,Fitness & training
+477,Outdoor recreation
+477,Hunting or fishing
+477,Music and theatre
+477,Travelling abroad
+477,Series on TV or online
+477,Sports news
+477,Practising a sport
+479,Books/literature
+479,Films
+479,Fitness & training
+479,Outdoor recreation
+479,Sustainability & environment
+479,Health & wellness
+479,Cookery
+479,Natural sciences
+479,Politics
+479,Travelling abroad
+479,Foreign news & foreign policy
+480,Cars and lorries
+480,Economy & business
+480,Films
+480,Outdoor recreation
+480,Construction & carpentry
+480,Health & wellness
+480,Hunting or fishing
+480,Music and theatre
+480,Entertainment & celebrities
+480,Travelling abroad
+480,Series on TV or online
+480,Sports news
+480,Theatre
+480,dance & other performing arts
+480,Practising a sport
+482,Books/literature
+482,Economy & business
+482,Sustainability & environment
+482,Arts & Crafts
+482,Natural sciences
+482,Travelling abroad
+482,Foreign news & foreign policy
+483,Books/literature
+483,Fitness & training
+483,Local news
+483,Travelling abroad
+483,Sports news
+483,Practising a sport
+484,Cars and lorries
+484,Books/literature
+484,Economy & business
+484,Outdoor recreation
+484,Construction & carpentry
+484,Health & wellness
+484,Arts & Crafts
+484,Local news
+484,Natural sciences
+484,New technologies & digitalisation
+484,Shopping
+484,Foreign news & foreign policy
+484,Plants
+484,growing & gardening
+487,Books/literature
+487,Outdoor recreation
+487,Sustainability & environment
+487,Music and theatre
+488,Economy & business
+488,Films
+488,Fitness & training
+488,Health & wellness
+488,Interior design
+488,Local news
+488,Fashion and clothing
+488,Entertainment & celebrities
+488,Politics
+488,Travelling abroad
+488,Shopping
+488,Practising a sport
+489,Books/literature
+489,Films
+489,Fitness & training
+489,Outdoor recreation
+489,Interior design
+489,Fashion and clothing
+489,Music and theatre
+489,Theatre
+489,dance & other performing arts
+492,Cars and lorries
+492,Local news
+492,Beauty news
+492,Foreign news & foreign policy
+494,Books/literature
+494,Economy & business
+494,Health & wellness
+494,Local news
+494,Music and theatre
+494,Travelling abroad
+494,Series on TV or online
+494,Theatre
+494,dance & other performing arts
+495,Books/literature
+495,Sustainability & environment
+495,Arts & Crafts
+495,Local news
+495,Cookery
+495,Natural sciences
+495,Politics
+495,Travelling abroad
+495,Foreign news & foreign policy
+496,Books/literature
+496,Films
+496,Fitness & training
+496,Outdoor recreation
+496,Sustainability & environment
+496,Health & wellness
+496,Cookery
+496,Travelling abroad
+496,Practising a sport
+497,Books/literature
+497,Fitness & training
+497,Outdoor recreation
+497,Health & wellness
+497,Arts & Crafts
+497,Music and theatre
+497,Entertainment & celebrities
+497,Shopping
+497,Theatre
+497,dance & other performing arts
+504,Books/literature
+504,Economy & business
+504,Films
+504,Outdoor recreation
+504,Health & wellness
+504,Arts & Crafts
+504,Local news
+504,Cookery
+504,Travelling abroad
+504,Series on TV or online
+504,Sports news
+504,Foreign news & foreign policy
+504,Practising a sport
+505,Fitness & training
+505,Gambling (games of chance e.g. poker
+505,casino
+505,trotting etc)
+505,Health & wellness
+505,Politics
+505,Travelling abroad
+505,Sports news
+505,Foreign news & foreign policy
+507,Cars and lorries
+507,Construction & carpentry
+509,Books/literature
+509,Economy & business
+509,Films
+509,Interior design
+509,Fashion and clothing
+509,Music and theatre
+509,Natural sciences
+509,New technologies & digitalisation
+509,Entertainment & celebrities
+509,Travelling abroad
+509,Series on TV or online
+509,Shopping
+509,Beauty news
+509,Plants
+509,growing & gardening
+510,Cookery
+510,Travelling abroad
+510,Sports news
+510,Foreign news & foreign policy
+511,Films
+511,Fitness & training
+511,Health & wellness
+511,Arts & Crafts
+511,New technologies & digitalisation
+513,Cars and lorries
+513,Films
+513,Construction & carpentry
+513,Health & wellness
+513,Interior design
+513,Local news
+513,Cookery
+513,Fashion and clothing
+513,Music and theatre
+513,New technologies & digitalisation
+513,Entertainment & celebrities
+513,Travelling abroad
+513,Series on TV or online
+513,Theatre
+513,dance & other performing arts
+513,Plants
+513,growing & gardening
+514,Fitness & training
+514,Health & wellness
+514,Cookery
+514,Music and theatre
+514,Entertainment & celebrities
+514,Travelling abroad
+514,Theatre
+514,dance & other performing arts
+514,Practising a sport
+515,Fitness & training
+515,Outdoor recreation
+515,Sustainability & environment
+515,Theatre
+515,dance & other performing arts
+515,Practising a sport
+516,Books/literature
+516,Films
+516,Interior design
+516,Arts & Crafts
+516,Music and theatre
+517,Books/literature
+517,Economy & business
+517,Sustainability & environment
+517,Health & wellness
+517,Local news
+517,Fashion and clothing
+517,New technologies & digitalisation
+517,Politics
+517,Travelling abroad
+517,Foreign news & foreign policy
+517,Practising a sport
+518,Books/literature
+518,Local news
+518,Music and theatre
+518,Entertainment & celebrities
+518,Travelling abroad
+518,Series on TV or online
+518,Sports news
+518,Plants
+518,growing & gardening
+522,Economy & business
+522,Politics
+522,Sports news
+526,Books/literature
+526,Films
+526,Fitness & training
+526,Outdoor recreation
+526,Construction & carpentry
+526,Health & wellness
+526,Local news
+526,Cookery
+526,Travelling abroad
+526,Series on TV or online
+526,Theatre
+526,dance & other performing arts
+530,Series on TV or online
+530,Plants
+530,growing & gardening
+531,Cars and lorries
+531,Fitness & training
+531,Outdoor recreation
+531,Practising a sport
+532,Books/literature
+532,Outdoor recreation
+532,Construction & carpentry
+532,Sustainability & environment
+532,Hunting or fishing
+532,Cookery
+532,Fashion and clothing
+532,Natural sciences
+532,Politics
+532,Sports news
+532,Foreign news & foreign policy
+532,Practising a sport
+535,Fitness & training
+535,Health & wellness
+535,Interior design
+535,Fashion and clothing
+535,Music and theatre
+535,New technologies & digitalisation
+535,Travelling abroad
+535,Theatre
+535,dance & other performing arts
+536,Fitness & training
+536,Outdoor recreation
+536,Construction & carpentry
+536,Health & wellness
+536,Music and theatre
+536,Beauty news
+536,Theatre
+536,dance & other performing arts
+536,Plants
+536,growing & gardening
+537,Interior design
+537,Arts & Crafts
+537,Cookery
+537,Fashion and clothing
+537,Theatre
+537,dance & other performing arts
+539,Books/literature
+539,Films
+539,Fitness & training
+539,Sustainability & environment
+539,Series on TV or online
+540,Economy & business
+540,Fitness & training
+540,Politics
+540,Travelling abroad
+541,Economy & business
+541,Outdoor recreation
+541,Hunting or fishing
+542,Cars and lorries
+542,Economy & business
+542,Fitness & training
+542,Politics
+542,Travelling abroad
+542,Sports news
+542,Practising a sport
+547,Books/literature
+547,Fitness & training
+547,Outdoor recreation
+547,Sustainability & environment
+547,Health & wellness
+547,Cookery
+547,Fashion and clothing
+547,Politics
+547,Shopping
+547,Foreign news & foreign policy
+547,Practising a sport
+550,Cars and lorries
+550,Construction & carpentry
+550,Travelling abroad
+550,Sports news
+550,Practising a sport
+551,Cars and lorries
+551,Fitness & training
+551,Fashion and clothing
+551,Travelling abroad
+551,Foreign news & foreign policy
+552,Outdoor recreation
+552,Sustainability & environment
+552,Health & wellness
+552,Music and theatre
+552,Natural sciences
+552,Politics
+552,Travelling abroad
+552,Theatre
+552,dance & other performing arts
+552,Foreign news & foreign policy
+552,Practising a sport
+553,Films
+553,Interior design
+553,Local news
+553,Fashion and clothing
+553,Music and theatre
+553,Entertainment & celebrities
+553,Politics
+553,Travelling abroad
+553,Series on TV or online
+553,Theatre
+553,dance & other performing arts
+555,Economy & business
+555,Films
+555,Fitness & training
+555,Outdoor recreation
+555,Sustainability & environment
+555,Health & wellness
+555,Local news
+555,Politics
+555,Travelling abroad
+555,Series on TV or online
+555,Shopping
+555,Foreign news & foreign policy
+557,Cars and lorries
+557,Books/literature
+557,Economy & business
+557,Health & wellness
+557,Local news
+557,Travelling abroad
+557,Plants
+557,growing & gardening
+559,Construction & carpentry
+559,Hunting or fishing
+559,Practising a sport
+561,Books/literature
+561,Films
+561,Fitness & training
+561,Outdoor recreation
+561,Sustainability & environment
+561,Hunting or fishing
+561,Cookery
+561,Music and theatre
+561,New technologies & digitalisation
+561,Politics
+561,Travelling abroad
+561,Series on TV or online
+561,Theatre
+561,dance & other performing arts
+561,Foreign news & foreign policy
+563,Books/literature
+563,Arts & Crafts
+563,New technologies & digitalisation
+563,Theatre
+563,dance & other performing arts
+565,Books/literature
+565,Films
+565,Fitness & training
+565,Health & wellness
+565,Cookery
+565,Music and theatre
+567,Economy & business
+567,Films
+567,Fashion and clothing
+567,Music and theatre
+567,Entertainment & celebrities
+567,Travelling abroad
+567,Theatre
+567,dance & other performing arts
+570,Books/literature
+570,Films
+570,Fitness & training
+570,Outdoor recreation
+570,Sustainability & environment
+570,Travelling abroad
+570,Series on TV or online
+570,Theatre
+570,dance & other performing arts
+572,Books/literature
+572,Economy & business
+572,Films
+572,Fitness & training
+572,Gambling (games of chance e.g. poker
+572,casino
+572,trotting etc)
+572,Sustainability & environment
+572,Health & wellness
+572,Interior design
+572,Arts & Crafts
+572,Local news
+572,Fashion and clothing
+572,Music and theatre
+572,Entertainment & celebrities
+572,Politics
+572,Travelling abroad
+572,Series on TV or online
+572,Shopping
+572,Beauty news
+572,Theatre
+572,dance & other performing arts
+572,Foreign news & foreign policy
+573,Films
+573,Outdoor recreation
+573,Health & wellness
+573,Cookery
+573,Travelling abroad
+573,Series on TV or online
+574,Films
+574,Fitness & training
+574,Outdoor recreation
+574,Health & wellness
+574,Local news
+574,Music and theatre
+574,Entertainment & celebrities
+574,Travelling abroad
+574,Shopping
+578,Cars and lorries
+578,Fitness & training
+578,Outdoor recreation
+578,Sustainability & environment
+578,Health & wellness
+578,Local news
+578,Cookery
+578,New technologies & digitalisation
+578,Politics
+578,Travelling abroad
+578,Series on TV or online
+578,Sports news
+578,Foreign news & foreign policy
+578,Practising a sport
+579,Sustainability & environment
+579,Interior design
+579,Arts & Crafts
+579,Fashion and clothing
+579,Travelling abroad
+581,Books/literature
+581,Films
+581,Fitness & training
+581,Outdoor recreation
+581,Construction & carpentry
+581,Travelling abroad
+581,Series on TV or online
+581,Plants
+581,growing & gardening
+584,Books/literature
+584,Films
+584,Sustainability & environment
+584,Cookery
+584,Series on TV or online
+585,Fitness & training
+585,Sports news
+588,Books/literature
+588,Outdoor recreation
+588,Health & wellness
+588,Interior design
+588,Arts & Crafts
+588,Cookery
+588,Music and theatre
+588,Travelling abroad
+588,Theatre
+588,dance & other performing arts
+588,Plants
+588,growing & gardening
+590,Construction & carpentry
+590,Local news
+590,Music and theatre
+590,Natural sciences
+593,Films
+593,Fitness & training
+593,Outdoor recreation
+593,Health & wellness
+593,Interior design
+593,Travelling abroad
+593,Sports news
+594,Cars and lorries
+594,Sustainability & environment
+594,Arts & Crafts
+594,Politics
+596,Cars and lorries
+596,Films
+596,Fitness & training
+596,Outdoor recreation
+596,Gaming (e-sports
+596,computer games
+596,online games etc)
+596,Construction & carpentry
+596,Hunting or fishing
+596,Local news
+596,Fashion and clothing
+596,Music and theatre
+596,Natural sciences
+596,New technologies & digitalisation
+596,Politics
+596,Travelling abroad
+596,Series on TV or online
+596,Practising a sport
+597,Outdoor recreation
+597,Sustainability & environment
+597,Health & wellness
+597,Arts & Crafts
+597,Music and theatre
+597,Sports news
+600,Films
+600,Fitness & training
+600,Health & wellness
+600,Travelling abroad
+600,Foreign news & foreign policy
+601,Films
+601,Fitness & training
+601,Outdoor recreation
+601,Health & wellness
+601,Local news
+601,Music and theatre
+601,Entertainment & celebrities
+601,Travelling abroad
+601,Series on TV or online
+601,Shopping
+601,Sports news
+601,Practising a sport
+605,Economy & business
+605,Outdoor recreation
+605,Health & wellness
+605,Local news
+605,Natural sciences
+605,Politics
+605,Travelling abroad
+605,Foreign news & foreign policy
+605,Practising a sport
+606,Economy & business
+606,Gaming (e-sports
+606,computer games
+606,online games etc)
+606,Health & wellness
+606,Music and theatre
+606,Entertainment & celebrities
+606,Travelling abroad
+606,Series on TV or online
+606,Theatre
+606,dance & other performing arts
+606,Foreign news & foreign policy
+607,Cars and lorries
+607,Economy & business
+608,Films
+608,Fitness & training
+608,Outdoor recreation
+608,Construction & carpentry
+608,Health & wellness
+608,Hunting or fishing
+608,Practising a sport
+610,Cars and lorries
+610,Books/literature
+610,Construction & carpentry
+610,Sustainability & environment
+610,Health & wellness
+610,Natural sciences
+610,New technologies & digitalisation
+610,Foreign news & foreign policy
+610,Practising a sport
+610,Plants
+610,growing & gardening
+612,Outdoor recreation
+612,Health & wellness
+612,Cookery
+612,Music and theatre
+612,Entertainment & celebrities
+612,Travelling abroad
+612,Plants
+612,growing & gardening
+616,Outdoor recreation
+616,Health & wellness
+616,Interior design
+616,Arts & Crafts
+616,Cookery
+616,Fashion and clothing
+616,Music and theatre
+616,Travelling abroad
+616,Shopping
+616,Theatre
+616,dance & other performing arts
+616,Plants
+616,growing & gardening
+617,Books/literature
+617,Films
+617,Outdoor recreation
+617,Fashion and clothing
+617,Music and theatre
+617,Practising a sport
+618,Cars and lorries
+618,Interior design
+618,Arts & Crafts
+618,Music and theatre
+618,Theatre
+618,dance & other performing arts
+619,Books/literature
+619,Films
+619,Outdoor recreation
+619,Health & wellness
+619,Fashion and clothing
+619,Natural sciences
+619,New technologies & digitalisation
+619,Travelling abroad
+619,Series on TV or online
+619,Shopping
+619,Beauty news
+619,Practising a sport
+620,Books/literature
+620,Fitness & training
+620,Sustainability & environment
+620,Health & wellness
+620,Arts & Crafts
+620,Cookery
+620,Music and theatre
+620,Natural sciences
+620,Travelling abroad
+620,Theatre
+620,dance & other performing arts
+620,Practising a sport
+620,Plants
+620,growing & gardening
+621,Fitness & training
+621,Health & wellness
+621,Politics
+621,Sports news
+621,Foreign news & foreign policy
+621,Plants
+621,growing & gardening
+622,Books/literature
+622,Economy & business
+622,Outdoor recreation
+622,Health & wellness
+622,Cookery
+622,Travelling abroad
+622,Plants
+622,growing & gardening
+623,Books/literature
+623,Films
+623,Sustainability & environment
+623,Health & wellness
+623,Local news
+623,Music and theatre
+623,Entertainment & celebrities
+623,Travelling abroad
+623,Series on TV or online
+623,Sports news
+623,Theatre
+623,dance & other performing arts
+624,Economy & business
+624,Outdoor recreation
+624,Sustainability & environment
+624,Health & wellness
+624,Arts & Crafts
+624,Cookery
+624,New technologies & digitalisation
+624,Travelling abroad
+624,Shopping
+624,Sports news
+624,Theatre
+624,dance & other performing arts
+625,Books/literature
+625,Economy & business
+625,Fitness & training
+625,Outdoor recreation
+625,Health & wellness
+625,Interior design
+625,Arts & Crafts
+625,Music and theatre
+625,New technologies & digitalisation
+625,Entertainment & celebrities
+625,Travelling abroad
+625,Shopping
+625,Beauty news
+625,Plants
+625,growing & gardening
+626,Films
+626,Outdoor recreation
+626,Construction & carpentry
+626,Sustainability & environment
+626,Health & wellness
+626,Interior design
+626,Hunting or fishing
+626,Arts & Crafts
+626,Cookery
+626,Music and theatre
+626,Natural sciences
+626,New technologies & digitalisation
+626,Theatre
+626,dance & other performing arts
+626,Practising a sport
+626,Plants
+626,growing & gardening
+627,Cars and lorries
+627,Books/literature
+627,Economy & business
+627,Fitness & training
+627,Cookery
+627,Foreign news & foreign policy
+629,Cars and lorries
+629,Books/literature
+629,Economy & business
+629,Films
+629,Fitness & training
+629,Construction & carpentry
+629,Health & wellness
+629,New technologies & digitalisation
+629,Politics
+629,Foreign news & foreign policy
+630,Cars and lorries
+630,Books/literature
+630,Economy & business
+630,Films
+630,Fitness & training
+630,Outdoor recreation
+630,Construction & carpentry
+630,Sustainability & environment
+630,Health & wellness
+630,Arts & Crafts
+630,Local news
+630,Cookery
+630,Music and theatre
+630,Natural sciences
+630,New technologies & digitalisation
+630,Series on TV or online
+630,Sports news
+630,Foreign news & foreign policy
+630,Practising a sport
+630,Plants
+630,growing & gardening
+631,Cars and lorries
+631,Outdoor recreation
+631,Hunting or fishing
+631,Music and theatre
+632,Economy & business
+632,Health & wellness
+632,Interior design
+632,Local news
+632,Cookery
+632,Fashion and clothing
+632,Music and theatre
+632,New technologies & digitalisation
+632,Politics
+632,Travelling abroad
+632,Shopping
+632,Theatre
+632,dance & other performing arts
+632,Foreign news & foreign policy
+633,Construction & carpentry
+633,Cookery
+633,Music and theatre
+633,Natural sciences
+634,Cars and lorries
+634,Books/literature
+634,Films
+634,Fitness & training
+634,Outdoor recreation
+634,Health & wellness
+634,Hunting or fishing
+634,Local news
+634,Cookery
+634,Natural sciences
+634,Sports news
+634,Practising a sport
+636,Books/literature
+636,Outdoor recreation
+636,Interior design
+636,Local news
+636,Series on TV or online
+638,Cars and lorries
+638,Books/literature
+638,Films
+638,Outdoor recreation
+638,Health & wellness
+638,Interior design
+638,Hunting or fishing
+638,Arts & Crafts
+638,Local news
+638,Cookery
+638,Fashion and clothing
+638,Music and theatre
+638,Natural sciences
+638,Entertainment & celebrities
+638,Travelling abroad
+638,Series on TV or online
+638,Shopping
+638,Theatre
+638,dance & other performing arts
+638,Plants
+638,growing & gardening
+641,Health & wellness
+641,Local news
+641,Cookery
+641,Music and theatre
+641,Travelling abroad
+641,Series on TV or online
+641,Theatre
+641,dance & other performing arts
+642,Economy & business
+642,Health & wellness
+642,Interior design
+643,Films
+643,Outdoor recreation
+643,Interior design
+643,Hunting or fishing
+643,Arts & Crafts
+643,Local news
+643,Cookery
+643,Fashion and clothing
+643,Music and theatre
+643,Travelling abroad
+643,Series on TV or online
+647,Plants
+647,growing & gardening
+648,Books/literature
+648,Economy & business
+648,Films
+648,Gaming (e-sports
+648,computer games
+648,online games etc)
+648,Sustainability & environment
+648,Arts & Crafts
+648,Local news
+648,Cookery
+648,Fashion and clothing
+648,Music and theatre
+648,New technologies & digitalisation
+648,Entertainment & celebrities
+648,Series on TV or online
+648,Theatre
+648,dance & other performing arts
+650,Economy & business
+650,Fitness & training
+650,Sustainability & environment
+650,Health & wellness
+650,Local news
+650,Natural sciences
+650,New technologies & digitalisation
+650,Politics
+650,Travelling abroad
+650,Sports news
+650,Foreign news & foreign policy
+650,Practising a sport

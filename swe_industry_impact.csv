@@ -1,0 +1,506 @@
+respondent_id,industry,impact_rating
+2,Hotels,2.
+9,Hotels,4.
+50,Hotels,1. No impact at all
+59,Hotels,3.
+62,Hotels,3.
+65,Hotels,4.
+71,Hotels,3.
+76,Hotels,4.
+81,Hotels,3.
+102,Hotels,4.
+105,Hotels,4.
+139,Hotels,1. No impact at all
+192,Hotels,5. Significant impact
+224,Hotels,3.
+229,Hotels,1. No impact at all
+232,Hotels,1. No impact at all
+235,Hotels,1. No impact at all
+244,Hotels,3.
+254,Hotels,4.
+259,Hotels,3.
+263,Hotels,5. Significant impact
+267,Hotels,1. No impact at all
+269,Hotels,4.
+276,Hotels,4.
+278,Hotels,3.
+291,Hotels,3.
+294,Hotels,2.
+301,Hotels,5. Significant impact
+317,Hotels,Don´t know
+318,Hotels,Don´t know
+321,Hotels,5. Significant impact
+324,Hotels,4.
+325,Hotels,4.
+326,Hotels,4.
+328,Hotels,Don´t know
+331,Hotels,Don´t know
+332,Hotels,2.
+333,Hotels,2.
+335,Hotels,2.
+344,Hotels,5. Significant impact
+345,Hotels,3.
+349,Hotels,5. Significant impact
+351,Hotels,3.
+358,Hotels,1. No impact at all
+360,Hotels,4.
+361,Hotels,4.
+366,Hotels,5. Significant impact
+370,Hotels,Don´t know
+373,Hotels,4.
+374,Hotels,3.
+376,Hotels,4.
+382,Hotels,Don´t know
+385,Hotels,4.
+386,Hotels,3.
+389,Hotels,2.
+394,Hotels,4.
+398,Hotels,2.
+410,Hotels,1. No impact at all
+411,Hotels,3.
+415,Hotels,4.
+419,Hotels,4.
+424,Hotels,5. Significant impact
+426,Hotels,1. No impact at all
+433,Hotels,3.
+434,Hotels,1. No impact at all
+439,Hotels,4.
+443,Hotels,3.
+449,Hotels,1. No impact at all
+450,Hotels,5. Significant impact
+452,Hotels,3.
+456,Hotels,3.
+458,Hotels,2.
+460,Hotels,5. Significant impact
+463,Hotels,1. No impact at all
+476,Hotels,3.
+480,Hotels,Don´t know
+487,Hotels,3.
+488,Hotels,Don´t know
+490,Hotels,5. Significant impact
+492,Hotels,2.
+494,Hotels,Don´t know
+500,Hotels,3.
+504,Hotels,4.
+507,Hotels,2.
+513,Hotels,Don´t know
+517,Hotels,Don´t know
+518,Hotels,3.
+520,Hotels,1. No impact at all
+526,Hotels,2.
+528,Hotels,5. Significant impact
+531,Hotels,1. No impact at all
+532,Hotels,3.
+535,Hotels,2.
+541,Hotels,4.
+553,Hotels,3.
+555,Hotels,4.
+557,Hotels,4.
+559,Hotels,4.
+574,Hotels,1. No impact at all
+575,Hotels,3.
+578,Hotels,3.
+579,Hotels,5. Significant impact
+581,Hotels,3.
+584,Hotels,4.
+590,Hotels,4.
+596,Hotels,2.
+597,Hotels,Don´t know
+605,Hotels,1. No impact at all
+607,Hotels,2.
+610,Hotels,5. Significant impact
+612,Hotels,4.
+619,Hotels,3.
+621,Hotels,2.
+623,Hotels,3.
+625,Hotels,4.
+627,Hotels,1. No impact at all
+629,Hotels,1. No impact at all
+630,Hotels,4.
+631,Hotels,Don´t know
+633,Hotels,3.
+634,Hotels,3.
+636,Hotels,3.
+641,Hotels,4.
+642,Hotels,2.
+647,Hotels,1. No impact at all
+650,Hotels,5. Significant impact
+2,Food,2.
+9,Food,5. Significant impact
+50,Food,4.
+59,Food,5. Significant impact
+62,Food,1. No impact at all
+65,Food,3.
+71,Food,4.
+76,Food,4.
+81,Food,3.
+102,Food,4.
+105,Food,3.
+139,Food,1. No impact at all
+192,Food,5. Significant impact
+224,Food,4.
+229,Food,4.
+232,Food,1. No impact at all
+235,Food,1. No impact at all
+244,Food,3.
+254,Food,4.
+259,Food,5. Significant impact
+263,Food,4.
+267,Food,1. No impact at all
+269,Food,4.
+276,Food,4.
+278,Food,5. Significant impact
+291,Food,4.
+294,Food,4.
+301,Food,4.
+317,Food,3.
+318,Food,Don´t know
+321,Food,5. Significant impact
+324,Food,5. Significant impact
+325,Food,4.
+326,Food,5. Significant impact
+328,Food,Don´t know
+331,Food,Don´t know
+332,Food,2.
+333,Food,2.
+335,Food,3.
+344,Food,5. Significant impact
+345,Food,4.
+349,Food,5. Significant impact
+351,Food,3.
+358,Food,1. No impact at all
+360,Food,4.
+361,Food,3.
+366,Food,5. Significant impact
+370,Food,Don´t know
+373,Food,5. Significant impact
+374,Food,4.
+376,Food,4.
+382,Food,Don´t know
+385,Food,4.
+386,Food,3.
+389,Food,3.
+394,Food,4.
+398,Food,2.
+410,Food,1. No impact at all
+411,Food,3.
+415,Food,4.
+419,Food,4.
+423,Food,Don´t know
+424,Food,5. Significant impact
+426,Food,1. No impact at all
+433,Food,3.
+434,Food,4.
+439,Food,5. Significant impact
+443,Food,2.
+449,Food,4.
+450,Food,5. Significant impact
+452,Food,3.
+456,Food,4.
+458,Food,3.
+460,Food,3.
+463,Food,1. No impact at all
+476,Food,4.
+480,Food,Don´t know
+487,Food,5. Significant impact
+488,Food,3.
+490,Food,4.
+492,Food,3.
+494,Food,Don´t know
+500,Food,4.
+504,Food,4.
+507,Food,3.
+513,Food,Don´t know
+517,Food,4.
+518,Food,3.
+520,Food,2.
+526,Food,2.
+528,Food,5. Significant impact
+531,Food,1. No impact at all
+532,Food,3.
+535,Food,3.
+541,Food,5. Significant impact
+553,Food,3.
+555,Food,5. Significant impact
+557,Food,4.
+559,Food,4.
+574,Food,1. No impact at all
+575,Food,3.
+578,Food,3.
+579,Food,5. Significant impact
+581,Food,Don´t know
+584,Food,3.
+590,Food,4.
+596,Food,2.
+597,Food,4.
+605,Food,1. No impact at all
+607,Food,4.
+610,Food,5. Significant impact
+612,Food,3.
+619,Food,2.
+621,Food,2.
+623,Food,4.
+625,Food,3.
+627,Food,3.
+629,Food,1. No impact at all
+630,Food,3.
+631,Food,Don´t know
+633,Food,3.
+634,Food,5. Significant impact
+636,Food,4.
+641,Food,5. Significant impact
+642,Food,3.
+647,Food,1. No impact at all
+650,Food,5. Significant impact
+2,Beverages,2.
+9,Beverages,4.
+50,Beverages,1. No impact at all
+59,Beverages,5. Significant impact
+62,Beverages,1. No impact at all
+65,Beverages,4.
+71,Beverages,4.
+76,Beverages,4.
+81,Beverages,3.
+102,Beverages,3.
+105,Beverages,3.
+139,Beverages,1. No impact at all
+192,Beverages,2.
+224,Beverages,5. Significant impact
+229,Beverages,1. No impact at all
+232,Beverages,1. No impact at all
+235,Beverages,1. No impact at all
+244,Beverages,3.
+254,Beverages,3.
+259,Beverages,1. No impact at all
+263,Beverages,5. Significant impact
+267,Beverages,1. No impact at all
+269,Beverages,4.
+276,Beverages,2.
+278,Beverages,5. Significant impact
+291,Beverages,4.
+294,Beverages,Don´t know
+301,Beverages,3.
+317,Beverages,3.
+318,Beverages,Don´t know
+321,Beverages,2.
+324,Beverages,4.
+325,Beverages,3.
+326,Beverages,5. Significant impact
+328,Beverages,Don´t know
+331,Beverages,Don´t know
+332,Beverages,1. No impact at all
+333,Beverages,1. No impact at all
+335,Beverages,2.
+344,Beverages,5. Significant impact
+345,Beverages,3.
+349,Beverages,5. Significant impact
+351,Beverages,3.
+358,Beverages,1. No impact at all
+360,Beverages,2.
+361,Beverages,2.
+366,Beverages,Don´t know
+370,Beverages,Don´t know
+373,Beverages,3.
+374,Beverages,3.
+376,Beverages,3.
+382,Beverages,Don´t know
+385,Beverages,2.
+386,Beverages,1. No impact at all
+389,Beverages,3.
+394,Beverages,4.
+398,Beverages,2.
+410,Beverages,1. No impact at all
+411,Beverages,3.
+415,Beverages,4.
+419,Beverages,3.
+423,Beverages,Don´t know
+424,Beverages,3.
+426,Beverages,1. No impact at all
+433,Beverages,2.
+434,Beverages,1. No impact at all
+439,Beverages,4.
+443,Beverages,2.
+449,Beverages,1. No impact at all
+450,Beverages,5. Significant impact
+452,Beverages,3.
+456,Beverages,3.
+458,Beverages,1. No impact at all
+460,Beverages,Don´t know
+463,Beverages,1. No impact at all
+476,Beverages,2.
+480,Beverages,Don´t know
+487,Beverages,3.
+488,Beverages,3.
+492,Beverages,1. No impact at all
+494,Beverages,Don´t know
+500,Beverages,4.
+504,Beverages,1. No impact at all
+507,Beverages,2.
+513,Beverages,Don´t know
+517,Beverages,4.
+518,Beverages,3.
+520,Beverages,2.
+526,Beverages,2.
+528,Beverages,3.
+531,Beverages,1. No impact at all
+532,Beverages,2.
+535,Beverages,2.
+541,Beverages,4.
+553,Beverages,1. No impact at all
+555,Beverages,4.
+557,Beverages,4.
+559,Beverages,4.
+574,Beverages,1. No impact at all
+575,Beverages,Don´t know
+578,Beverages,1. No impact at all
+579,Beverages,5. Significant impact
+581,Beverages,Don´t know
+584,Beverages,2.
+590,Beverages,3.
+596,Beverages,2.
+597,Beverages,3.
+605,Beverages,1. No impact at all
+607,Beverages,1. No impact at all
+610,Beverages,3.
+612,Beverages,3.
+619,Beverages,2.
+621,Beverages,2.
+623,Beverages,3.
+625,Beverages,2.
+627,Beverages,1. No impact at all
+629,Beverages,1. No impact at all
+630,Beverages,3.
+631,Beverages,Don´t know
+633,Beverages,3.
+634,Beverages,2.
+636,Beverages,2.
+641,Beverages,4.
+642,Beverages,2.
+647,Beverages,1. No impact at all
+650,Beverages,4.
+2,Restaurant & fastfood,2.
+9,Restaurant & fastfood,4.
+50,Restaurant & fastfood,1. No impact at all
+59,Restaurant & fastfood,5. Significant impact
+62,Restaurant & fastfood,3.
+65,Restaurant & fastfood,3.
+71,Restaurant & fastfood,3.
+76,Restaurant & fastfood,4.
+81,Restaurant & fastfood,3.
+102,Restaurant & fastfood,4.
+105,Restaurant & fastfood,3.
+139,Restaurant & fastfood,1. No impact at all
+192,Restaurant & fastfood,5. Significant impact
+224,Restaurant & fastfood,4.
+229,Restaurant & fastfood,1. No impact at all
+232,Restaurant & fastfood,1. No impact at all
+235,Restaurant & fastfood,1. No impact at all
+244,Restaurant & fastfood,3.
+254,Restaurant & fastfood,3.
+259,Restaurant & fastfood,2.
+263,Restaurant & fastfood,4.
+267,Restaurant & fastfood,1. No impact at all
+269,Restaurant & fastfood,4.
+276,Restaurant & fastfood,3.
+278,Restaurant & fastfood,5. Significant impact
+291,Restaurant & fastfood,4.
+294,Restaurant & fastfood,3.
+301,Restaurant & fastfood,4.
+317,Restaurant & fastfood,Don´t know
+318,Restaurant & fastfood,Don´t know
+321,Restaurant & fastfood,5. Significant impact
+324,Restaurant & fastfood,5. Significant impact
+325,Restaurant & fastfood,4.
+326,Restaurant & fastfood,5. Significant impact
+328,Restaurant & fastfood,Don´t know
+331,Restaurant & fastfood,Don´t know
+332,Restaurant & fastfood,3.
+333,Restaurant & fastfood,2.
+335,Restaurant & fastfood,3.
+344,Restaurant & fastfood,5. Significant impact
+345,Restaurant & fastfood,3.
+349,Restaurant & fastfood,5. Significant impact
+351,Restaurant & fastfood,3.
+358,Restaurant & fastfood,1. No impact at all
+360,Restaurant & fastfood,2.
+361,Restaurant & fastfood,4.
+366,Restaurant & fastfood,4.
+370,Restaurant & fastfood,Don´t know
+373,Restaurant & fastfood,5. Significant impact
+374,Restaurant & fastfood,3.
+376,Restaurant & fastfood,3.
+382,Restaurant & fastfood,Don´t know
+385,Restaurant & fastfood,3.
+386,Restaurant & fastfood,4.
+389,Restaurant & fastfood,3.
+394,Restaurant & fastfood,4.
+398,Restaurant & fastfood,2.
+410,Restaurant & fastfood,1. No impact at all
+411,Restaurant & fastfood,3.
+415,Restaurant & fastfood,4.
+419,Restaurant & fastfood,4.
+423,Restaurant & fastfood,2.
+424,Restaurant & fastfood,3.
+426,Restaurant & fastfood,Don´t know
+433,Restaurant & fastfood,2.
+434,Restaurant & fastfood,3.
+439,Restaurant & fastfood,4.
+443,Restaurant & fastfood,3.
+449,Restaurant & fastfood,4.
+450,Restaurant & fastfood,5. Significant impact
+452,Restaurant & fastfood,3.
+456,Restaurant & fastfood,3.
+458,Restaurant & fastfood,3.
+460,Restaurant & fastfood,5. Significant impact
+463,Restaurant & fastfood,1. No impact at all
+476,Restaurant & fastfood,2.
+480,Restaurant & fastfood,Don´t know
+487,Restaurant & fastfood,3.
+488,Restaurant & fastfood,4.
+492,Restaurant & fastfood,3.
+494,Restaurant & fastfood,Don´t know
+500,Restaurant & fastfood,4.
+504,Restaurant & fastfood,4.
+507,Restaurant & fastfood,2.
+513,Restaurant & fastfood,Don´t know
+517,Restaurant & fastfood,3.
+518,Restaurant & fastfood,2.
+520,Restaurant & fastfood,2.
+526,Restaurant & fastfood,2.
+528,Restaurant & fastfood,5. Significant impact
+531,Restaurant & fastfood,1. No impact at all
+532,Restaurant & fastfood,2.
+535,Restaurant & fastfood,2.
+541,Restaurant & fastfood,5. Significant impact
+553,Restaurant & fastfood,2.
+555,Restaurant & fastfood,5. Significant impact
+557,Restaurant & fastfood,Don´t know
+559,Restaurant & fastfood,4.
+574,Restaurant & fastfood,1. No impact at all
+575,Restaurant & fastfood,Don´t know
+578,Restaurant & fastfood,3.
+579,Restaurant & fastfood,5. Significant impact
+581,Restaurant & fastfood,Don´t know
+584,Restaurant & fastfood,3.
+590,Restaurant & fastfood,3.
+596,Restaurant & fastfood,2.
+597,Restaurant & fastfood,2.
+605,Restaurant & fastfood,1. No impact at all
+607,Restaurant & fastfood,1. No impact at all
+610,Restaurant & fastfood,5. Significant impact
+612,Restaurant & fastfood,3.
+619,Restaurant & fastfood,2.
+621,Restaurant & fastfood,2.
+623,Restaurant & fastfood,4.
+625,Restaurant & fastfood,1. No impact at all
+627,Restaurant & fastfood,1. No impact at all
+629,Restaurant & fastfood,1. No impact at all
+630,Restaurant & fastfood,4.
+631,Restaurant & fastfood,Don´t know
+633,Restaurant & fastfood,3.
+634,Restaurant & fastfood,5. Significant impact
+636,Restaurant & fastfood,3.
+641,Restaurant & fastfood,3.
+642,Restaurant & fastfood,2.
+647,Restaurant & fastfood,1. No impact at all
+650,Restaurant & fastfood,4.

@@ -1,0 +1,651 @@
+respondent_id,country,gender,age,sustainability_impact_on_purchase,frequency_discussion_sustainability,country_live_in,residence_type,children_in_household,education_level,occupation
+1,Sweden,Male,52.0,2,Rarely,Sweden,Small town,No children under 18 years,Secondary education or equivalent,State employee
+2,Sweden,Female,48.0,2,Often,Sweden,Medium-sized city,13-18 years,College or university education,Privately employed civil servant
+3,Sweden,Male,52.0,Don´t know,Rarely,Sweden,Large city or large city with suburb,13-18 years,College or university education,State employee
+4,Sweden,Male,65.0,4,Often,,,,,
+5,Sweden,Female,73.0,4,Occasionally,,,,,
+6,Sweden,Male,50.0,4,Occasionally,,,,,
+7,Sweden,Male,46.0,3,Occasionally,,Medium-sized city,"8-12 years,13-18 years",College or university education,Privately employed civil servant
+8,Sweden,Male,48.0,4,Rarely,,,,,
+9,Sweden,Male,59.0,5,Often,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+10,Sweden,Male,47.0,3,Rarely,,,,,
+11,Sweden,Male,63.0,3,Occasionally,,,,,
+12,Sweden,Male,54.0,,Occasionally,,,,,
+13,Sweden,Female,70.0,4,Often,,,,,
+14,Sweden,Male,76.0,4,Occasionally,,,,,
+15,Sweden,Male,53.0,4,Often,,,,,
+16,Sweden,Female,48.0,5,Often,,,,,
+17,Sweden,Male,34.0,1,Rarely,,,,,
+18,Sweden,Male,62.0,3,Rarely,,,,,
+19,Sweden,Male,49.0,3,Occasionally,,,,,
+20,Sweden,Male,49.0,4,Often,,,,,
+21,Sweden,Male,56.0,3,Occasionally,,,,,
+22,Sweden,Male,36.0,4,Occasionally,,,,,
+23,Sweden,Female,74.0,3,Occasionally,,,,,
+24,Sweden,Female,46.0,4,Occasionally,,,,,
+25,Sweden,Male,67.0,5,Occasionally,,,,,
+26,Sweden,Male,,3,Rarely,,,,,
+27,Sweden,Female,24.0,3,Occasionally,,,,,
+28,Sweden,Male,53.0,3,Rarely,,,,,
+29,Sweden,Female,72.0,Don´t know,Occasionally,,,,,
+30,Sweden,Male,67.0,5,Often,,,,,
+31,Sweden,Male,68.0,3,Occasionally,,,,,
+32,Sweden,Male,62.0,2,Occasionally,,,,,
+33,Sweden,Male,63.0,3,Often,,,,,
+34,Sweden,Male,64.0,4,Often,,,,,
+35,Sweden,Male,70.0,5,Often,,,,,
+36,Sweden,Male,64.0,,Occasionally,,,,,
+37,Sweden,Male,46.0,5,Often,,,,,
+38,Sweden,Male,71.0,5,Occasionally,,,,,
+39,Sweden,Male,59.0,5,Often,,,,,
+40,Sweden,Male,28.0,5,Occasionally,,,,,
+41,Sweden,Female,52.0,3,Rarely,,,,,
+42,Sweden,Male,33.0,3,Occasionally,,,,,
+43,Sweden,Male,68.0,5,Often,,,,,
+44,Sweden,Male,67.0,5,Occasionally,,,,,
+45,Sweden,Female,63.0,,Rarely,,,,,
+46,Sweden,Male,37.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed labourer
+47,Sweden,Male,58.0,3,Rarely,,,,,
+48,Sweden,Male,60.0,4,Occasionally,,,,,
+49,Sweden,Male,69.0,3,Occasionally,,,,,
+50,Sweden,Female,65.0,2,Rarely,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+51,Sweden,Female,50.0,4,Often,Sweden,Rural area,No children under 18 years,College or university education,Privately employed civil servant
+52,Sweden,Male,67.0,4,Often,,,,,
+53,Sweden,Female,48.0,5,Often,,,,,
+54,Sweden,Female,56.0,Don´t know,Occasionally,,,,,
+55,Sweden,Male,75.0,5,Often,,,,,
+56,Sweden,Male,71.0,Don´t know,Rarely,,,,,
+57,Sweden,Female,59.0,3,Occasionally,,,,,
+58,Sweden,Male,70.0,Don´t know,Rarely,,,,,
+59,Sweden,Female,69.0,4,Occasionally,,Large city or large city with suburb,No children under 18 years,College or university education,Self-employed
+60,Sweden,Male,,3,Often,,,,,
+61,Sweden,Male,59.0,4,Occasionally,,,,,
+62,Sweden,Female,63.0,5,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Employee of a municipal company
+63,Sweden,,63.0,3,Occasionally,,,,,
+64,Sweden,Female,48.0,3,Rarely,,,,,
+65,Sweden,Male,61.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+66,Sweden,Male,43.0,3,Occasionally,,,,,
+67,Sweden,Male,37.0,2,Rarely,,,,,
+68,Sweden,Female,38.0,2,Rarely,,,,,
+69,Sweden,Female,54.0,2,Rarely,,,,,
+70,Sweden,Female,42.0,,Often,,,,,
+71,Sweden,Male,57.0,2,Rarely,,Small town,No children under 18 years,Secondary education or equivalent,Employee of a municipal company
+72,Sweden,Female,59.0,5,Occasionally,,,,,
+73,Sweden,Male,71.0,4,Often,,,,,
+74,Sweden,Female,64.0,5,Often,,Rural area,No children under 18 years,College or university education,State employee
+75,Sweden,Male,72.0,2,Often,,,,,
+76,Sweden,Male,61.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+77,Sweden,Male,56.0,1,Occasionally,,,,,
+78,Sweden,Female,69.0,Don´t know,Rarely,,,,,
+79,Sweden,Female,58.0,4,Occasionally,,,,,
+80,Sweden,Male,56.0,3,Often,,,,,
+81,Sweden,Male,52.0,,Often,Sweden,Rural area,13-18 years,College or university education,Self-employed
+82,Sweden,Male,61.0,3,Occasionally,,,,,
+83,Sweden,Male,84.0,,Occasionally,,,,,
+84,Sweden,Female,69.0,2,Rarely,,,,,
+85,Sweden,Female,60.0,3,Often,,,,,
+86,Sweden,Male,79.0,2,Rarely,,,,,
+87,Sweden,Female,86.0,,Occasionally,,,,,
+88,Sweden,Male,70.0,3,Occasionally,,,,,
+89,Sweden,Male,75.0,2,Rarely,,,,,
+90,Sweden,Male,71.0,4,Occasionally,,,,,
+91,Sweden,Female,74.0,4,Often,,,,,
+92,Sweden,Female,59.0,3,Often,,,,,
+93,Sweden,I don't want to say,90.0,2,Occasionally,,,,,
+94,Sweden,Female,63.0,4,Occasionally,,,,,
+95,Sweden,Female,47.0,Don´t know,Occasionally,,,,,
+96,Sweden,Female,49.0,3,Occasionally,,,,,
+97,Sweden,Male,56.0,3,Occasionally,,,,,
+98,Sweden,Male,67.0,3,Occasionally,,,,,
+99,Sweden,Female,67.0,4,Occasionally,,,,,
+100,Sweden,Male,76.0,2,Occasionally,,,,,
+101,Sweden,Female,68.0,3,Occasionally,,,,,
+102,Sweden,Male,61.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed civil servant
+103,Sweden,Female,84.0,,Rarely,,,,,
+104,Sweden,Male,62.0,2,Rarely,,,,,
+105,Sweden,Male,64.0,5,Occasionally,,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+106,Sweden,Male,69.0,4,Often,,,,,
+107,Sweden,Female,76.0,4,Often,,,,,
+108,Sweden,Female,64.0,4,Occasionally,,,,,
+109,Sweden,Female,64.0,3,Rarely,,,,,
+110,Sweden,Male,73.0,4,Occasionally,,,,,
+111,Sweden,Male,81.0,5,Occasionally,,,,,
+112,Sweden,Male,56.0,4,Occasionally,,,,,
+113,Sweden,Male,72.0,,Occasionally,,,,,
+114,Sweden,Female,79.0,5,Often,,,,,
+115,Sweden,Male,55.0,4,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Self-employed
+116,Sweden,Female,46.0,4,Occasionally,,,,,
+117,Sweden,Female,38.0,5,Often,,,,,
+118,Sweden,Male,51.0,3,Rarely,,,,,
+119,Sweden,Male,45.0,2,Often,,,,,
+120,Sweden,Male,51.0,4,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+121,Sweden,Female,72.0,4,Occasionally,,,,,
+122,Sweden,Female,22.0,3,Rarely,,,,,
+123,Sweden,Male,55.0,4,Occasionally,,,,,
+124,Sweden,Male,67.0,4,Occasionally,,,,,
+125,Sweden,Male,77.0,2,Occasionally,,,,,
+126,Sweden,Male,42.0,4,Occasionally,,,,,
+127,Sweden,Male,77.0,3,Occasionally,,,,,
+128,Sweden,Male,79.0,3,Often,,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+129,Sweden,Male,37.0,4,Occasionally,,,,,
+130,Sweden,Female,74.0,3,Occasionally,,,,,
+131,Sweden,Female,52.0,4,Often,,,,,
+132,Sweden,Female,45.0,3,Often,,,,,
+133,Sweden,Female,47.0,4,Often,,,,,
+134,Sweden,Male,42.0,3,Occasionally,,,,,
+135,Sweden,Male,82.0,4,Occasionally,,,,,
+136,Sweden,Female,49.0,2,Occasionally,,,,,
+137,Sweden,Male,65.0,2,Rarely,,,,,
+138,Sweden,Male,63.0,3,Occasionally,,,,,
+139,Sweden,Male,58.0,1,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+140,Sweden,Male,70.0,3,Occasionally,,,,,
+141,Sweden,Male,69.0,4,Occasionally,,,,,
+142,Sweden,Male,44.0,4,Rarely,,,,,
+143,Sweden,Female,49.0,4,Often,,,,,
+144,Sweden,Female,49.0,3,Occasionally,,,,,
+145,Sweden,Female,73.0,5,Occasionally,,,,,
+146,Sweden,Female,59.0,4,Occasionally,,,,,
+147,Sweden,Female,62.0,4,Often,,,,,
+148,Sweden,Male,81.0,4,Often,,,,,
+149,Sweden,Female,60.0,3,Occasionally,,,,,
+150,Sweden,Male,56.0,1,Rarely,,,,,
+151,Sweden,Male,42.0,4,Occasionally,,,,,
+152,Sweden,Female,52.0,,Rarely,,,,,
+153,Sweden,Male,71.0,5,Often,,,,,
+154,Sweden,Male,64.0,4,Occasionally,,,,,
+155,Sweden,Female,33.0,5,Often,,,,,
+156,Sweden,Female,70.0,4,Occasionally,,,,,
+157,Sweden,Female,66.0,,Often,,,,,
+158,Sweden,Female,75.0,Don´t know,Occasionally,,,,,
+159,Sweden,Female,50.0,Don´t know,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+160,Sweden,Male,54.0,2,Occasionally,,,,,
+161,Sweden,Male,46.0,4,Often,,,,,
+162,Sweden,Female,61.0,3,Occasionally,,,,,
+163,Sweden,Female,55.0,4,Often,,,,,
+164,Sweden,Female,,Don´t know,Occasionally,,,,,
+165,Sweden,Male,73.0,3,Often,,,,,
+166,Sweden,Female,56.0,4,Occasionally,,,,,
+167,Sweden,Female,69.0,4,Occasionally,,,,,
+168,Sweden,Female,44.0,4,Occasionally,,,,,
+169,Sweden,Female,58.0,3,Occasionally,,,,,
+170,Sweden,Male,61.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+171,Sweden,Male,51.0,2,Rarely,,,,,
+172,Sweden,Male,71.0,3,Occasionally,,,,,
+173,Sweden,Male,65.0,4,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Employee of a municipal company
+174,Sweden,Male,57.0,4,Often,,,,,
+175,Sweden,Female,26.0,5,Occasionally,,,,,
+176,Sweden,Female,69.0,4,Occasionally,,,,,
+177,Sweden,Female,,3,Occasionally,,,,,
+178,Sweden,Male,64.0,3,Occasionally,,,,,
+179,Sweden,Female,58.0,4,Often,,,,,
+180,Sweden,Female,56.0,3,Occasionally,,,,,
+181,Sweden,Male,59.0,4,Occasionally,,,,,
+182,Sweden,Female,45.0,4,Often,Sweden,Small town,"8-12 years,13-18 years",College or university education,Employee in municipal or county council
+183,Sweden,Female,87.0,5,Often,,,,,
+184,Sweden,Female,87.0,5,Often,,,,,
+185,Sweden,Male,78.0,5,Often,,,,,
+186,Sweden,Female,58.0,4,Often,,,,,
+187,Sweden,Male,38.0,3,Occasionally,,,,,
+188,Sweden,Female,54.0,3,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Employee of a municipal company
+189,Sweden,Male,72.0,2,Rarely,,,,,
+190,Sweden,Female,66.0,4,Often,,,,,
+191,Sweden,Male,56.0,4,Occasionally,,,,,
+192,Sweden,Male,58.0,Don´t know,Rarely,,,,,
+193,Sweden,Male,83.0,2,Rarely,,Small town,No children under 18 years,College or university education,Old-age pensioner
+194,Sweden,Male,57.0,4,Often,,,,,
+195,Sweden,Female,71.0,3,Occasionally,,,,,
+196,Sweden,Female,74.0,4,Occasionally,,,,,
+197,Sweden,Female,42.0,4,Occasionally,,,,,
+198,Sweden,Male,59.0,1,Often,,,,,
+199,Sweden,Male,56.0,2,Rarely,,,,,
+200,Sweden,Male,82.0,3,Rarely,,,,,
+201,Sweden,Female,,Don´t know,Rarely,,,,,
+202,Sweden,Female,67.0,3,Rarely,,,,,
+203,Sweden,Male,69.0,3,Often,,,,,
+204,Sweden,Female,72.0,4,Often,,,,,
+205,Sweden,Female,58.0,4,Occasionally,,,,,
+206,Sweden,Male,48.0,4,Often,,,,,
+207,Sweden,Male,64.0,4,Occasionally,,,,,
+208,Sweden,Female,53.0,3,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Privately employed civil servant
+209,Sweden,Female,41.0,4,Often,,,,,
+210,Sweden,Male,52.0,4,Occasionally,,,,,
+211,Sweden,Female,78.0,5,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,
+212,Sweden,Male,80.0,5,Often,,,,,
+213,Sweden,Male,82.0,3,Occasionally,,,,,
+214,Sweden,Female,66.0,1,Rarely,,,,,
+215,Sweden,Male,79.0,4,Rarely,,,,,
+216,Sweden,Male,57.0,3,Rarely,,,,,
+217,Sweden,Female,55.0,3,Often,,,,,
+218,Sweden,Male,53.0,3,Occasionally,,,,,
+219,Sweden,Male,56.0,2,Rarely,,,,,
+220,Sweden,Female,58.0,4,Often,,,,,
+221,Sweden,Male,58.0,3,Often,,,,,
+222,Sweden,Male,58.0,3,Rarely,,,,,
+223,Sweden,Female,,3,Rarely,,,,,
+224,Sweden,Female,63.0,4,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+225,Sweden,Female,54.0,Don´t know,Occasionally,,,,,
+226,Sweden,Female,66.0,3,Often,,,,,
+227,Sweden,Female,57.0,5,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+228,Sweden,Female,36.0,4,Occasionally,,,,,
+229,Sweden,Male,32.0,1,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed civil servant
+230,Sweden,Male,59.0,3,Occasionally,,,,,
+231,Sweden,Male,69.0,3,Occasionally,,Rural area,No children under 18 years,College or university education,Privately employed civil servant
+232,Sweden,Male,53.0,4,Occasionally,,,,,
+233,Sweden,Female,69.0,3,Occasionally,,,,,
+234,Sweden,Female,68.0,4,Occasionally,,,,,
+235,Sweden,Male,79.0,2,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+236,Sweden,Female,47.0,3,Occasionally,Sweden,Medium-sized city,13-18 years,Secondary education or equivalent,Privately employed labourer
+237,Sweden,Male,53.0,3,Often,,,,,
+238,Sweden,Male,59.0,4,Occasionally,,,,,
+239,Sweden,Female,68.0,4,Occasionally,,,,,
+240,Sweden,Male,73.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+241,Sweden,Male,76.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+242,Sweden,Female,56.0,3,Rarely,,,,,
+243,Sweden,Male,60.0,2,Rarely,,,,,
+244,Sweden,Male,64.0,3,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Self-employed
+245,Sweden,Female,,4,Often,,,,,
+246,Sweden,Female,59.0,2,Rarely,,,,,
+247,Sweden,Female,51.0,3,Occasionally,Sweden,Rural area,13-18 years,College or university education,Privately employed civil servant
+248,Sweden,Female,38.0,4,Often,,,,,
+249,Sweden,Male,55.0,3,Rarely,,,,,
+250,Sweden,Female,60.0,4,Often,,,,,
+251,Sweden,Female,61.0,2,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+252,Sweden,Female,55.0,1,Occasionally,,,,,
+253,Sweden,Female,65.0,4,Occasionally,,,,,
+254,Sweden,Female,53.0,4,Occasionally,,,,,
+255,Sweden,Female,67.0,2,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+256,Sweden,Male,42.0,3,Occasionally,,,,,
+257,Sweden,Female,57.0,5,Often,,,,,
+258,Sweden,Male,56.0,5,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+259,Sweden,Female,66.0,2,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+260,Sweden,Female,48.0,4,Often,,,,,
+261,Sweden,Male,79.0,5,Often,,,,,
+262,Sweden,Male,30.0,1,Rarely,,,,,
+263,Sweden,Female,20.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+264,Sweden,Female,54.0,3,Occasionally,,,,,
+265,Sweden,Male,63.0,3,Occasionally,,,,,
+266,Sweden,Male,65.0,4,Often,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Self-employed
+267,Sweden,Male,54.0,3,Rarely,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed civil servant
+268,Sweden,Male,50.0,3,Rarely,Sweden,Large city or large city with suburb,"8-12 years,13-18 years",College or university education,Self-employed
+269,Sweden,Female,68.0,5,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+270,Sweden,Female,64.0,2,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee of a municipal company
+271,Sweden,Female,57.0,4,Often,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+272,Sweden,Female,47.0,4,Often,,,,,
+273,Sweden,Female,49.0,Don´t know,Occasionally,,,,,
+274,Sweden,Female,69.0,4,Often,,,,,
+275,Sweden,Male,48.0,4,Occasionally,,,,,
+276,Sweden,Male,70.0,4,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Old-age pensioner
+277,Sweden,Female,49.0,5,Occasionally,,,,,
+278,Sweden,Female,51.0,4,Occasionally,,,,,
+279,Sweden,Male,78.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+280,Sweden,Male,40.0,3,Often,,,,,
+281,Sweden,Female,55.0,4,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,State employee
+282,Sweden,Male,68.0,2,Rarely,Sweden,Small town,No children under 18 years,College or university education,Privately employed civil servant
+283,Sweden,Female,51.0,4,Occasionally,Sweden,Large city or large city with suburb,"8-12 years,13-18 years",Secondary education or equivalent,Privately employed labourer
+284,Sweden,Male,53.0,2,Rarely,,,,,
+285,Sweden,Female,29.0,4,Occasionally,,,,,
+286,Sweden,Female,52.0,4,Rarely,Sweden,Rural area,13-18 years,College or university education,Employee in municipal or county council
+287,Sweden,Female,43.0,Don´t know,Rarely,Sweden,Small town,No children under 18 years,College or university education,State employee
+288,Sweden,Female,49.0,3,Occasionally,,,,,
+289,Sweden,Male,50.0,4,Often,Sweden,,No children under 18 years,College or university education,Privately employed civil servant
+290,Sweden,Female,74.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+291,Sweden,Female,47.0,3,Rarely,Sweden,Small town,13-18 years,College or university education,Employee in municipal or county council
+292,Sweden,Female,67.0,4,Often,Sweden,Other,No children under 18 years,College or university education,Old-age pensioner
+293,Sweden,Female,72.0,3,Occasionally,,,,,
+294,Sweden,Female,70.0,3,Occasionally,,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+295,Sweden,Female,68.0,5,Often,Sweden,Medium-sized city,"0-7 years,8-12 years",College or university education,Privately employed civil servant
+296,Sweden,Female,69.0,4,Occasionally,,,,,
+297,Sweden,Male,59.0,2,Occasionally,,,,,
+298,Sweden,Female,71.0,5,Often,,,,,
+299,Sweden,Male,57.0,3,Occasionally,,,,,
+300,Sweden,Female,56.0,1,Rarely,Sweden,Rural area,No children under 18 years,College or university education,State employee
+301,Sweden,Female,49.0,4,Often,Sweden,Small town,8-12 years,College or university education,Employee in municipal or county council
+302,Sweden,Male,66.0,4,Often,,,,,
+303,Sweden,Male,50.0,,Occasionally,,,,,
+304,Sweden,Male,47.0,5,Often,,,,,
+305,Sweden,Male,49.0,1,Often,,,,,
+306,Sweden,Female,24.0,4,Often,Sweden,Rural area,0-7 years,Secondary education or equivalent,Employee in municipal or county council
+307,Sweden,Female,59.0,3,Occasionally,,,,,
+308,Sweden,Male,39.0,4,Often,,,,,
+309,Sweden,Male,88.0,4,Often,,,,,
+310,Sweden,Female,36.0,3,Often,,,,,
+311,Sweden,Male,62.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,State employee
+312,Sweden,Male,76.0,4,Occasionally,,,,,
+313,Sweden,Female,58.0,4,Often,,,,,
+314,Sweden,Female,60.0,3,Often,Sweden,Small town,No children under 18 years,College or university education,Self-employed
+315,Sweden,Female,58.0,4,Often,,,,,
+316,Sweden,Female,58.0,4,Rarely,,,,,
+317,Sweden,Female,57.0,3,Often,Sweden,Small town,No children under 18 years,College or university education,Employee in municipal or county council
+318,Sweden,Female,66.0,Don´t know,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Old-age pensioner
+319,Sweden,Male,70.0,5,Often,,,,,
+320,Sweden,Female,58.0,4,Often,,,,,
+321,Sweden,Female,78.0,5,Often,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+322,Sweden,Male,49.0,4,Often,,,,,
+323,Sweden,Female,38.0,5,Often,Sweden,Small town,"0-7 years,13-18 years",College or university education,State employee
+324,Sweden,Female,45.0,4,Often,Sweden,Small town,"8-12 years,13-18 years",College or university education,Privately employed labourer
+325,Sweden,Male,54.0,4,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed civil servant
+326,Sweden,Female,61.0,4,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed labourer
+327,Sweden,Female,56.0,4,Occasionally,,,,,
+328,Sweden,Female,46.0,2,Rarely,Sweden,Rural area,13-18 years,Secondary education or equivalent,Employee in municipal or county council
+329,Sweden,Female,34.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed labourer
+330,Sweden,Male,77.0,,Occasionally,,Rural area,No children under 18 years,College or university education,Old-age pensioner
+331,Sweden,Female,46.0,2,Rarely,Sweden,Rural area,13-18 years,Secondary education or equivalent,Employee in municipal or county council
+332,Sweden,Male,38.0,1,Occasionally,Sweden,Large city or large city with suburb,0-7 years,College or university education,Employee in municipal or county council
+333,Sweden,Female,70.0,2,Rarely,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+334,Sweden,Male,43.0,4,Occasionally,,,,,
+335,Sweden,Male,54.0,2,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+336,Sweden,Male,57.0,4,Occasionally,Sweden,Rural area,13-18 years,Secondary education or equivalent,Privately employed civil servant
+337,Sweden,Female,55.0,5,Often,,Medium-sized city,No children under 18 years,College or university education,Self-employed
+338,Sweden,Female,71.0,4,Occasionally,,,,,
+339,Sweden,Female,55.0,4,Occasionally,,,,,
+340,Sweden,Male,40.0,4,Occasionally,,,,,
+341,Sweden,Female,46.0,3,Often,,,,,
+342,Sweden,Female,52.0,5,Often,,,,,
+343,Sweden,Male,44.0,3,Rarely,,,,,
+344,Sweden,Male,73.0,4,Occasionally,,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+345,Sweden,Male,48.0,4,Occasionally,Sweden,Medium-sized city,"8-12 years,13-18 years",College or university education,Privately employed civil servant
+346,Sweden,Female,43.0,1,Rarely,Sweden,Rural area,8-12 years,Secondary education or equivalent,State employee
+347,Sweden,Female,84.0,4,Occasionally,,,,,
+348,Sweden,Female,65.0,Don´t know,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+349,Sweden,Female,53.0,5,Often,Sweden,Large city or large city with suburb,13-18 years,College or university education,Other
+350,Sweden,Female,48.0,4,Occasionally,Sweden,Large city or large city with suburb,13-18 years,College or university education,Privately employed civil servant
+351,Sweden,Male,44.0,3,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Other
+352,Sweden,Male,40.0,4,Often,Sweden,Large city or large city with suburb,"0-7 years,8-12 years",College or university education,Privately employed civil servant
+353,Sweden,Male,28.0,4,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+354,Sweden,Male,50.0,4,Occasionally,,,,,
+355,Sweden,Female,56.0,3,Occasionally,,,,,
+356,Sweden,Female,55.0,4,Rarely,,,,,
+357,Sweden,Male,66.0,2,Occasionally,,,,,
+358,Sweden,Male,48.0,1,Occasionally,,,,,
+359,Sweden,Female,45.0,4,Often,,,,,
+360,Sweden,Male,,5,Often,,,,,
+361,Sweden,Male,45.0,4,Occasionally,Sweden,Large city or large city with suburb,13-18 years,College or university education,Privately employed civil servant
+362,Sweden,Female,67.0,1,Occasionally,,,,,
+363,Sweden,Female,84.0,3,Occasionally,,,,,
+364,Sweden,Female,29.0,4,Occasionally,,,,,
+365,Sweden,Female,53.0,5,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,State employee
+366,Sweden,Male,49.0,5,Often,,,,,
+367,Sweden,Female,58.0,4,,,,,,
+368,Sweden,Male,55.0,2,Occasionally,,,,,
+369,Sweden,Female,46.0,4,Occasionally,Sweden,Rural area,13-18 years,College or university education,Privately employed civil servant
+370,Sweden,Male,52.0,3,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+371,Sweden,Male,63.0,2,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Self-employed
+372,Sweden,Male,61.0,5,Often,,,,,
+373,Sweden,Male,66.0,4,Occasionally,,,,,
+374,Sweden,Female,45.0,4,Occasionally,,Large city or large city with suburb,"0-7 years,8-12 years",College or university education,State employee
+375,Sweden,Male,36.0,2,Occasionally,,,,,
+376,Sweden,Male,67.0,Don´t know,Rarely,,,,,
+377,Sweden,Male,56.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed civil servant
+378,Sweden,Female,54.0,4,Occasionally,,,,,
+379,Sweden,Male,65.0,4,Often,,,,,
+380,Sweden,Male,64.0,3,Occasionally,,,,,
+381,Sweden,Male,62.0,3,Rarely,Sweden,Rural area,No children under 18 years,College or university education,State employee
+382,Sweden,Male,54.0,3,Rarely,Sweden,,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+383,Sweden,Male,73.0,3,Occasionally,,,,,
+384,Sweden,Male,81.0,4,Occasionally,Sweden,Rural area,No children under 18 years,College or university education,Old-age pensioner
+385,Sweden,Male,46.0,3,Occasionally,Sweden,Medium-sized city,13-18 years,Secondary education or equivalent,Privately employed civil servant
+386,Sweden,Male,76.0,3,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+387,Sweden,I don't want to say,,2,Rarely,,,,,
+388,Sweden,Male,65.0,4,Occasionally,,,,,
+389,Sweden,Male,64.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+390,Sweden,Male,21.0,5,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Employee of a municipal company
+391,Sweden,Female,47.0,3,Often,,,,,
+392,Sweden,Male,62.0,3,Occasionally,,,,,
+393,Sweden,Male,60.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Primary school or equivalent,Other
+394,Sweden,Female,37.0,4,Often,,Medium-sized city,No children under 18 years,College or university education,State employee
+395,Sweden,Male,75.0,3,Occasionally,Sweden,Rural area,No children under 18 years,College or university education,Old-age pensioner
+396,Sweden,Female,47.0,4,Often,,,,,
+397,Sweden,Female,68.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Primary school or equivalent,Old-age pensioner
+398,Sweden,Male,48.0,4,Often,Sweden,Small town,13-18 years,College or university education,Privately employed civil servant
+399,Sweden,Male,54.0,4,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+400,Sweden,Female,63.0,4,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Employee in municipal or county council
+401,Sweden,Male,77.0,,Occasionally,,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+402,Sweden,Female,72.0,2,Rarely,,,,,
+403,Sweden,Female,66.0,3,Occasionally,,,,,
+404,Sweden,Female,48.0,,Often,Sweden,Large city or large city with suburb,13-18 years,College or university education,Privately employed civil servant
+405,Sweden,Female,58.0,2,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,State employee
+406,Sweden,Female,62.0,3,Occasionally,,,,,
+407,Sweden,Male,54.0,5,Often,,,,,
+408,Sweden,Female,84.0,4,Occasionally,,,,,
+409,Sweden,I don't want to say,55.0,3,Occasionally,,,,,
+410,Sweden,Male,51.0,5,Never,Sweden,Small town,"8-12 years,13-18 years",Secondary education or equivalent,Privately employed civil servant
+411,Sweden,Male,,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+412,Sweden,Male,71.0,4,Occasionally,,,,,
+413,Sweden,Male,69.0,4,Often,,Medium-sized city,No children under 18 years,College or university education,Self-employed
+414,Sweden,Male,54.0,4,Often,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Self-employed
+415,Sweden,Female,54.0,4,Often,Sweden,Small town,No children under 18 years,College or university education,Employee in municipal or county council
+416,Sweden,Male,82.0,5,Often,,,,,
+417,Sweden,Male,44.0,1,Never,,,,,
+418,Sweden,Male,69.0,3,Occasionally,,,,,
+419,Sweden,Male,63.0,4,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Self-employed
+420,Sweden,Male,68.0,5,Occasionally,,,,,
+421,Sweden,Male,59.0,4,Often,,,,,
+422,Sweden,Female,56.0,4,Occasionally,,,,,
+423,Sweden,Female,54.0,3,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+424,Sweden,Female,30.0,3,Occasionally,Sweden,Medium-sized city,0-7 years,Secondary education or equivalent,Privately employed labourer
+425,Sweden,Male,48.0,2,Occasionally,,,,,
+426,Sweden,Female,63.0,,Occasionally,,Rural area,No children under 18 years,Secondary education or equivalent,Employee of a municipal company
+427,Sweden,Male,52.0,4,Often,Suriname,Rural area,13-18 years,College or university education,State employee
+428,Sweden,Female,47.0,3,Occasionally,,,,,
+429,Sweden,Female,76.0,1,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+430,Sweden,Male,39.0,4,Often,Sweden,Rural area,8-12 years,College or university education,Privately employed civil servant
+431,Sweden,Male,62.0,Don´t know,Never,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed labourer
+432,Sweden,Female,66.0,1,Often,,,,,
+433,Sweden,Female,62.0,4,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,State employee
+434,Sweden,Female,50.0,Don´t know,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Student at university/college
+435,Sweden,Male,45.0,4,Occasionally,,,,,
+436,Sweden,Male,76.0,4,Never,,,,,
+437,Sweden,Female,57.0,2,Rarely,,,,,
+438,Sweden,Male,48.0,4,Rarely,Sweden,Large city or large city with suburb,8-12 years,College or university education,Privately employed labourer
+439,Sweden,Male,81.0,4,Occasionally,,Medium-sized city,No children under 18 years,Primary school or equivalent,Old-age pensioner
+440,Sweden,Male,53.0,1,Rarely,Canada,Medium-sized city,13-18 years,College or university education,Privately employed labourer
+441,Sweden,Female,57.0,2,Rarely,,,,,
+442,Sweden,Female,55.0,5,Occasionally,,,,,
+443,Sweden,Male,60.0,2,Occasionally,,Small town,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+444,Sweden,Female,62.0,3,Occasionally,,,,,
+445,Sweden,Female,65.0,4,Occasionally,,,,,
+446,Sweden,Female,70.0,3,,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+447,Sweden,Male,82.0,3,Occasionally,,,,,
+448,Sweden,Male,70.0,5,Occasionally,Sweden,Medium-sized city,No children under 18 years,Primary school or equivalent,Old-age pensioner
+449,Sweden,Male,34.0,3,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+450,Sweden,Male,64.0,5,Occasionally,,,,,
+451,Sweden,Male,74.0,3,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+452,Sweden,Female,70.0,3,Rarely,,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+453,Sweden,Male,60.0,4,Occasionally,,,,,
+454,Sweden,Male,60.0,4,Occasionally,,,,,
+455,Sweden,Female,90.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Primary school or equivalent,Old-age pensioner
+456,Sweden,Female,65.0,3,Occasionally,Sweden,Medium-sized city,No children under 18 years,Primary school or equivalent,Old-age pensioner
+457,Sweden,Female,54.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Employee in municipal or county council
+458,Sweden,Female,46.0,3,Occasionally,Sweden,Small town,13-18 years,College or university education,Privately employed labourer
+459,Sweden,Female,70.0,3,Occasionally,,,,,
+460,Sweden,Male,66.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Self-employed
+461,Sweden,Female,68.0,3,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+462,Sweden,Female,60.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+463,Sweden,Male,,,Rarely,Sweden,Rural area,13-18 years,Secondary education or equivalent,State employee
+464,Sweden,Male,61.0,3,Rarely,,,,,
+465,Sweden,Male,61.0,4,Often,,,,,
+466,Sweden,Female,69.0,4,Occasionally,,,,,
+467,Sweden,Male,68.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+468,Sweden,Male,57.0,3,Occasionally,,,,,
+469,Sweden,Female,72.0,Don´t know,Often,,,,,
+470,Sweden,Female,69.0,3,Occasionally,,,,,
+471,Sweden,Female,53.0,4,Occasionally,,,,,
+472,Sweden,Female,69.0,4,Occasionally,,,,,
+473,Sweden,Male,51.0,4,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,State employee
+474,Sweden,Male,56.0,2,Occasionally,,,,,
+475,Sweden,Male,58.0,1,Never,,Rural area,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+476,Sweden,Male,52.0,4,Occasionally,Sweden,Small town,13-18 years,College or university education,Privately employed civil servant
+477,Sweden,Male,50.0,4,Occasionally,Norway,Small town,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+478,Sweden,Female,61.0,4,Occasionally,,,,,
+479,Sweden,Female,56.0,,Often,Sweden,Medium-sized city,13-18 years,College or university education,Privately employed civil servant
+480,Sweden,Male,65.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+481,Sweden,Female,69.0,4,Occasionally,,,,,
+482,Sweden,Male,60.0,3,Often,,Small town,No children under 18 years,College or university education,Privately employed labourer
+483,Sweden,Male,36.0,4,Often,Sweden,Large city or large city with suburb,0-7 years,College or university education,Privately employed labourer
+484,Sweden,Male,63.0,4,Often,Sweden,Small town,No children under 18 years,College or university education,Employee in municipal or county council
+485,Sweden,Male,59.0,5,Often,,,,,
+486,Sweden,Female,53.0,4,Often,,,,,
+487,Sweden,Male,72.0,4,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+488,Sweden,Female,55.0,Don´t know,Rarely,Sweden,Small town,No children under 18 years,College or university education,Privately employed civil servant
+489,Sweden,Female,69.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+490,Sweden,Male,,4,Occasionally,,,,,
+491,Sweden,Male,66.0,4,Occasionally,,,,,
+492,Sweden,Female,74.0,3,Rarely,Sweden,Small town,No children under 18 years,Primary school or equivalent,Old-age pensioner
+493,Sweden,Male,77.0,4,Occasionally,,,,,
+494,Sweden,Female,84.0,Don´t know,Rarely,Sweden,Small town,No children under 18 years,College or university education,Old-age pensioner
+495,Sweden,Female,74.0,4,Often,Sweden,Small town,No children under 18 years,College or university education,Old-age pensioner
+496,Sweden,Female,60.0,3,Occasionally,Sweden,Rural area,13-18 years,College or university education,Privately employed civil servant
+497,Sweden,Female,56.0,4,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+498,Sweden,Female,70.0,3,Occasionally,,,,,
+499,Sweden,Male,72.0,3,Occasionally,,,,,
+500,Sweden,Female,61.0,4,Often,Sweden,Medium-sized city,No children under 18 years,College or university education,Self-employed
+501,Sweden,Female,54.0,3,Occasionally,,,,,
+502,Sweden,Female,59.0,1,Occasionally,,,,,
+503,Sweden,Female,56.0,3,Often,,,,,
+504,Sweden,Male,81.0,3,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+505,Sweden,Female,58.0,3,Occasionally,Sweden,Small town,No children under 18 years,College or university education,State employee
+506,Sweden,Female,56.0,4,Often,,,,,
+507,Sweden,Male,66.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+508,Sweden,Male,72.0,2,Rarely,,,,,
+509,Sweden,Female,49.0,1,Occasionally,Sweden,Small town,13-18 years,College or university education,Employee in municipal or county council
+510,Sweden,Male,53.0,2,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+511,Sweden,Male,59.0,1,Never,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed labourer
+512,Sweden,Male,59.0,3,Rarely,,,,,
+513,Sweden,Female,62.0,1,Rarely,Sweden,Small town,No children under 18 years,College or university education,State employee
+514,Sweden,Male,58.0,5,Often,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,State employee
+515,Sweden,Female,45.0,5,Often,Sweden,Medium-sized city,8-12 years,College or university education,Privately employed civil servant
+516,Sweden,Female,70.0,2,,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Self-employed
+517,Sweden,Female,55.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Privately employed civil servant
+518,Sweden,Female,60.0,3,Rarely,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+519,Sweden,Male,60.0,3,Rarely,,,,,
+520,Sweden,Female,41.0,2,Often,,,,,
+521,Sweden,Female,55.0,4,Often,,,,,
+522,Sweden,Male,81.0,3,Rarely,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+523,Sweden,Female,53.0,4,Often,,,,,
+524,Sweden,Female,61.0,4,Often,,,,,
+525,Sweden,Male,74.0,3,Often,,,,,
+526,Sweden,Female,59.0,3,Rarely,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+527,Sweden,Male,67.0,3,Rarely,,,,,
+528,Sweden,Male,66.0,3,Rarely,,,,,
+529,Sweden,Female,43.0,3,Occasionally,,,,,
+530,Sweden,Female,66.0,Don´t know,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+531,Sweden,Male,56.0,1,,Sweden,Small town,"0-7 years,8-12 years,13-18 years",Secondary education or equivalent,Privately employed labourer
+532,Sweden,Male,59.0,4,Often,Sweden,Rural area,No children under 18 years,College or university education,State employee
+533,Sweden,Male,75.0,1,Never,,,,,
+534,Sweden,Female,50.0,3,Occasionally,,,,,
+535,Sweden,Male,46.0,2,Rarely,Sweden,Medium-sized city,8-12 years,College or university education,State employee
+536,Sweden,Female,34.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee of a municipal company
+537,Sweden,Male,56.0,4,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+538,Sweden,Male,57.0,3,Occasionally,,,,,
+539,Sweden,Female,44.0,4,Occasionally,Sweden,Small town,"8-12 years,13-18 years",Primary school or equivalent,Privately employed labourer
+540,Sweden,Male,63.0,1,Never,Sweden,Rural area,No children under 18 years,College or university education,Self-employed
+541,Sweden,Male,65.0,4,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Self-employed
+542,Sweden,Male,47.0,3,Occasionally,Sweden,Medium-sized city,"8-12 years,13-18 years",Secondary education or equivalent,Privately employed labourer
+543,Sweden,Male,50.0,Don´t know,Rarely,,,,,
+544,Sweden,Male,48.0,3,Occasionally,,,,,
+545,Sweden,Male,56.0,Don´t know,Often,,,,,
+546,Sweden,Female,67.0,Don´t know,Occasionally,,,,,
+547,Sweden,Male,49.0,4,Often,Sweden,Medium-sized city,13-18 years,College or university education,Employee in municipal or county council
+548,Sweden,Female,50.0,4,Often,,,,,
+549,Sweden,Female,54.0,3,Occasionally,,,,,
+550,Sweden,Male,68.0,4,Occasionally,,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+551,Sweden,Male,74.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+552,Sweden,Male,64.0,4,Often,Sweden,Small town,No children under 18 years,College or university education,Old-age pensioner
+553,Sweden,Female,68.0,3,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+554,Sweden,Male,58.0,4,Occasionally,,,,,
+555,Sweden,Female,58.0,Don´t know,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+556,Sweden,I don't want to say,50.0,4,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+557,Sweden,Female,70.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+558,Sweden,Female,52.0,3,Occasionally,,,,,
+559,Sweden,Male,67.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+560,Sweden,Male,50.0,5,Rarely,,,,,
+561,Sweden,Male,67.0,4,Often,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+562,Sweden,Female,56.0,,Often,,,,,
+563,Sweden,Male,75.0,3,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+564,Sweden,Female,52.0,4,Often,Sweden,Small town,13-18 years,College or university education,State employee
+565,Sweden,Female,57.0,4,Often,Sweden,Large city or large city with suburb,13-18 years,Secondary education or equivalent,Privately employed civil servant
+566,Sweden,Female,51.0,3,Occasionally,,,,,
+567,Sweden,Female,60.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+568,Sweden,Male,67.0,4,Often,,,,,
+569,Sweden,Female,56.0,4,Occasionally,,,,,
+570,Sweden,Female,52.0,Don´t know,Occasionally,Sweden,Large city or large city with suburb,13-18 years,College or university education,Privately employed civil servant
+571,Sweden,Female,67.0,4,Occasionally,,,,,
+572,Sweden,Female,58.0,4,Often,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,State employee
+573,Sweden,Female,64.0,4,Often,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+574,Sweden,Female,49.0,Don´t know,Never,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+575,Sweden,Female,68.0,3,Often,,,,,
+576,Sweden,Female,80.0,3,Often,,,,,
+577,Sweden,Male,50.0,4,Often,,,,,
+578,Sweden,Female,58.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,State employee
+579,Sweden,Female,45.0,5,Often,Sweden,Large city or large city with suburb,8-12 years,College or university education,Employee in municipal or county council
+580,Sweden,Female,70.0,Don´t know,Rarely,,,,,
+581,Sweden,Female,44.0,4,Rarely,Sweden,Small town,"8-12 years,13-18 years",Secondary education or equivalent,Privately employed labourer
+582,Sweden,Male,52.0,5,Often,,,,,
+583,Sweden,Female,60.0,1,Occasionally,,,,,
+584,Sweden,Female,62.0,3,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+585,Sweden,Male,57.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+586,Sweden,Female,55.0,4,Occasionally,,,,,
+587,Sweden,Male,65.0,3,Occasionally,,,,,
+588,Sweden,Female,57.0,Don´t know,Never,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Job seeker
+589,Sweden,Female,50.0,3,Never,,,,,
+590,Sweden,Female,58.0,4,Often,Sweden,Rural area,No children under 18 years,College or university education,Employee in municipal or county council
+591,Sweden,Female,65.0,4,Occasionally,,,,,
+592,Sweden,Male,,1,Occasionally,,,,,
+593,Sweden,Male,63.0,4,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed labourer
+594,Sweden,Male,66.0,4,Often,,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+595,Sweden,Male,62.0,3,Occasionally,,,,,
+596,Sweden,Male,44.0,2,Often,Sweden,Medium-sized city,"8-12 years,13-18 years",College or university education,State employee
+597,Sweden,Female,83.0,,Often,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+598,Sweden,Female,47.0,4,Occasionally,,,,,
+599,Sweden,Female,59.0,4,Occasionally,,,,,
+600,Sweden,Male,61.0,4,Often,Sweden,Rural area,No children under 18 years,College or university education,Self-employed
+601,Sweden,Female,60.0,3,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+602,Sweden,Female,35.0,5,Often,,,,,
+603,Sweden,Male,57.0,3,Occasionally,,,,,
+604,Sweden,Female,61.0,4,Often,,,,,
+605,Sweden,Male,57.0,1,Often,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+606,Sweden,Female,45.0,3,Rarely,Sweden,Large city or large city with suburb,"8-12 years,13-18 years",College or university education,Self-employed
+607,Sweden,Male,65.0,2,Rarely,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,State employee
+608,Sweden,Male,63.0,4,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+609,Sweden,Female,58.0,4,Rarely,,,,,
+610,Sweden,Male,59.0,5,Often,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+611,Sweden,Male,62.0,1,Rarely,,,,,
+612,Sweden,Female,65.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+613,Sweden,Male,59.0,4,Rarely,,,,,
+614,Sweden,Female,73.0,4,Occasionally,,,,,
+615,Sweden,Female,73.0,3,Rarely,,,,,
+616,Sweden,Female,59.0,2,Rarely,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+617,Sweden,Female,50.0,4,Rarely,Sweden,Rural area,No children under 18 years,College or university education,Privately employed labourer
+618,Sweden,Male,60.0,4,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+619,Sweden,Female,48.0,2,Rarely,Sweden,Large city or large city with suburb,"8-12 years,13-18 years",College or university education,Employee in municipal or county council
+620,Sweden,Female,80.0,3,Often,Sweden,Rural area,No children under 18 years,College or university education,Old-age pensioner
+621,Sweden,Male,76.0,2,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Old-age pensioner
+622,Sweden,Male,72.0,3,Rarely,Sweden,Small town,No children under 18 years,College or university education,Self-employed
+623,Sweden,Female,55.0,4,Often,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+624,Sweden,Male,70.0,3,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+625,Sweden,Female,45.0,3,Rarely,Sweden,Large city or large city with suburb,13-18 years,Secondary education or equivalent,Privately employed civil servant
+626,Sweden,Male,55.0,4,Occasionally,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Privately employed civil servant
+627,Sweden,Male,54.0,1,Often,Sweden,Large city or large city with suburb,13-18 years,College or university education,Other
+628,Sweden,Male,75.0,2,Never,,,,,
+629,Sweden,Male,75.0,2,Never,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+630,Sweden,Male,54.0,3,Occasionally,Sweden,Small town,No children under 18 years,College or university education,Privately employed civil servant
+631,Sweden,Female,57.0,Don´t know,Rarely,Sweden,Small town,No children under 18 years,College or university education,State employee
+632,Sweden,Male,67.0,Don´t know,Rarely,Sweden,Large city or large city with suburb,No children under 18 years,College or university education,Old-age pensioner
+633,Sweden,Male,62.0,3,Occasionally,Sweden,Medium-sized city,No children under 18 years,College or university education,Employee in municipal or county council
+634,Sweden,Male,49.0,4,Occasionally,Sweden,Rural area,"8-12 years,13-18 years",College or university education,Privately employed civil servant
+635,Sweden,Female,55.0,,Often,,,,,
+636,Sweden,Female,53.0,3,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Employee in municipal or county council
+637,Sweden,Male,58.0,5,Occasionally,,,,,
+638,Sweden,Female,52.0,3,Occasionally,,Small town,No children under 18 years,Secondary education or equivalent,Job seeker
+639,Sweden,Female,68.0,Don´t know,Occasionally,,,,,
+640,Sweden,Female,71.0,4,Often,,,,,
+641,Sweden,Male,76.0,4,Occasionally,Sweden,Medium-sized city,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+642,Sweden,Female,49.0,4,Never,Sweden,Medium-sized city,13-18 years,College or university education,State employee
+643,Sweden,Male,50.0,3,Occasionally,Sweden,Small town,No children under 18 years,Secondary education or equivalent,Privately employed civil servant
+644,Sweden,Male,73.0,4,Occasionally,,,,,
+645,Sweden,Male,48.0,,Occasionally,,,,,
+646,Sweden,Female,73.0,3,Rarely,,,,,
+647,Sweden,Female,73.0,Don´t know,Occasionally,Sweden,Rural area,No children under 18 years,College or university education,Old-age pensioner
+648,Sweden,Female,73.0,3,Occasionally,Sweden,Rural area,No children under 18 years,Secondary education or equivalent,Old-age pensioner
+649,Sweden,Male,72.0,4,Occasionally,,,,,
+650,Sweden,Male,55.0,5,Often,Sweden,Small town,No children under 18 years,College or university education,Privately employed civil servant
